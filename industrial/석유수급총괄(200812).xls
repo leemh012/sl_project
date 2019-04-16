@@ -1,0 +1,378 @@
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+<html>
+<head>
+<title>석유수급총괄</title>
+<meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
+<script language="javascript" src="/inc/default.js"></script>
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!--전체테이블 -->
+<table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr valign="Top">
+    <td height="25">
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td align="center"><strong><font color="green" >석유수급총괄</font></strong></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr valign="Top">
+		<td valign="top">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		   	<!--통계정보-->
+				<!--통계정보-->
+
+<!--통계정보-->
+				<!--통계정보-->
+				<tr valign="Top">
+				 <td align="right">
+				   <table width="100%" border="0" cellpadding="0" cellspacing="0">
+				     <tr>
+				       <td align="left">2004년&nbsp;01월&nbsp; ~ 2008년&nbsp;12월&nbsp;</td>
+				     </tr>
+				     <tr>
+				       <td align="right">(단위: 천Bbl, 일)</td>
+				     </tr>
+				   </table>
+				 </td>
+				</tr>
+				<tr valign="Top">
+					<td>
+						<table width="100%" border="0" cellpadding="0" cellspacing="0">
+						 	<tr>
+						   	<td>
+						     	<table width="100%" border="1" cellpadding="0" cellspacing="0" bordercolor="green" bgcolor="ffffff" class="boxtext" hspace="2" vspace="1">
+								   	<!--Header 삽입-->
+																       	<tr bgcolor="F0F0F0">
+						         	<td width="40" align="center" bgcolor="F0F0F1" rowspan="2">월</td>
+						         	<td width="40" align="center" bgcolor="F0F0F1" rowspan="2">분류</td>
+						         	<td align="center" bgcolor="F0F0F1" rowspan="2">원유수입</td>
+						         	<td align="center" bgcolor="F0F0F1" rowspan="2">정제처리</td>
+						         	<td align="center" bgcolor="F0F0F1" colspan="2">제품공급</td>
+						         	<td align="center" bgcolor="F0F0F1" colspan="3">제품수요</td>
+						         	<td align="center" bgcolor="F0F0F1" colspan="4">재고</td>
+						       	</tr>
+						       	<tr bgcolor="F0F0F0">
+						         	<td align="center" bgcolor="#e1e1e1">생산</td>
+						         	<td align="center" bgcolor="#e1e1e1">수입</td>
+						         	<td align="center" bgcolor="#e1e1e1">내수</td>
+						         	<td align="center" bgcolor="#e1e1e1">벙커링</td>
+						         	<td align="center" bgcolor="#e1e1e1">수출</td>
+						         	<td align="center" bgcolor="#e1e1e1">원유</td>
+						         	<td align="center" bgcolor="#e1e1e1">원유지속일</td>
+						         	<td align="center" bgcolor="#e1e1e1">제품</td>
+						         	<td align="center" bgcolor="#e1e1e1">제품지속일</td>
+						       	</tr>
+										<!--Header 삽입-->
+									 	<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >04년&nbsp;01월&nbsp;</td>
+<td align='right' >59,638</td><td align='right' >73,591</td><td align='right' >78,213</td><td align='right' >15,640</td><td align='right' >70,783</td><td align='right' >4,797</td><td align='right' >17,804</td><td align='right' >13,586</td><td align='right' >7.06</td><td align='right' >44,178</td><td align='right' >19.34</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >02월&nbsp;</td>
+<td align='right' >78,839</td><td align='right' >68,373</td><td align='right' >73,071</td><td align='right' >17,991</td><td align='right' >62,564</td><td align='right' >4,605</td><td align='right' >18,784</td><td align='right' >23,921</td><td align='right' >8.79</td><td align='right' >46,782</td><td align='right' >21.68</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >03월&nbsp;</td>
+<td align='right' >62,128</td><td align='right' >71,515</td><td align='right' >76,595</td><td align='right' >16,720</td><td align='right' >67,256</td><td align='right' >4,616</td><td align='right' >20,691</td><td align='right' >14,419</td><td align='right' >7.19</td><td align='right' >44,503</td><td align='right' >20.51</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >04월&nbsp;</td>
+<td align='right' >63,854</td><td align='right' >68,348</td><td align='right' >72,868</td><td align='right' >15,798</td><td align='right' >58,855</td><td align='right' >4,845</td><td align='right' >20,281</td><td align='right' >9,805</td><td align='right' >4.60</td><td align='right' >46,481</td><td align='right' >23.69</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >05월&nbsp;</td>
+<td align='right' >66,246</td><td align='right' >67,381</td><td align='right' >71,794</td><td align='right' >15,794</td><td align='right' >59,289</td><td align='right' >4,220</td><td align='right' >24,365</td><td align='right' >8,578</td><td align='right' >4.01</td><td align='right' >47,905</td><td align='right' >25.04</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >06월&nbsp;</td>
+<td align='right' >64,291</td><td align='right' >62,642</td><td align='right' >66,376</td><td align='right' >18,157</td><td align='right' >58,425</td><td align='right' >5,039</td><td align='right' >9,384</td><td align='right' >10,118</td><td align='right' >4.72</td><td align='right' >55,841</td><td align='right' >28.67</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >07월&nbsp;</td>
+<td align='right' >62,577</td><td align='right' >59,441</td><td align='right' >64,185</td><td align='right' >13,842</td><td align='right' >56,221</td><td align='right' >4,857</td><td align='right' >19,774</td><td align='right' >13,157</td><td align='right' >6.51</td><td align='right' >50,108</td><td align='right' >27.62</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >08월&nbsp;</td>
+<td align='right' >67,843</td><td align='right' >67,266</td><td align='right' >72,508</td><td align='right' >14,651</td><td align='right' >60,645</td><td align='right' >4,791</td><td align='right' >18,193</td><td align='right' >13,628</td><td align='right' >6.22</td><td align='right' >50,719</td><td align='right' >25.92</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >09월&nbsp;</td>
+<td align='right' >61,931</td><td align='right' >65,708</td><td align='right' >70,857</td><td align='right' >15,199</td><td align='right' >59,338</td><td align='right' >4,975</td><td align='right' >19,653</td><td align='right' >9,740</td><td align='right' >4.71</td><td align='right' >52,468</td><td align='right' >26.52</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >10월&nbsp;</td>
+<td align='right' >75,211</td><td align='right' >72,457</td><td align='right' >78,309</td><td align='right' >14,084</td><td align='right' >63,049</td><td align='right' >5,279</td><td align='right' >21,974</td><td align='right' >12,393</td><td align='right' >5.10</td><td align='right' >51,279</td><td align='right' >25.21</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >11월&nbsp;</td>
+<td align='right' >88,693</td><td align='right' >73,497</td><td align='right' >79,094</td><td align='right' >15,603</td><td align='right' >63,719</td><td align='right' >5,102</td><td align='right' >19,921</td><td align='right' >27,508</td><td align='right' >9.30</td><td align='right' >55,950</td><td align='right' >26.34</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >12월&nbsp;</td>
+<td align='right' >74,540</td><td align='right' >76,332</td><td align='right' >82,543</td><td align='right' >21,631</td><td align='right' >72,184</td><td align='right' >5,260</td><td align='right' >24,682</td><td align='right' >25,574</td><td align='right' >10.63</td><td align='right' >55,296</td><td align='right' >23.74</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >05년&nbsp;01월&nbsp;</td>
+<td align='right' >62,490</td><td align='right' >75,252</td><td align='right' >81,800</td><td align='right' >12,639</td><td align='right' >72,220</td><td align='right' >5,069</td><td align='right' >20,534</td><td align='right' >12,896</td><td align='right' >6.27</td><td align='right' >48,284</td><td align='right' >23.48</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >02월&nbsp;</td>
+<td align='right' >70,276</td><td align='right' >67,496</td><td align='right' >73,267</td><td align='right' >14,284</td><td align='right' >62,637</td><td align='right' >4,172</td><td align='right' >17,914</td><td align='right' >15,585</td><td align='right' >7.58</td><td align='right' >48,716</td><td align='right' >23.70</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >03월&nbsp;</td>
+<td align='right' >81,204</td><td align='right' >75,631</td><td align='right' >81,249</td><td align='right' >16,590</td><td align='right' >71,818</td><td align='right' >4,760</td><td align='right' >19,261</td><td align='right' >21,086</td><td align='right' >10.25</td><td align='right' >47,530</td><td align='right' >23.12</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >04월&nbsp;</td>
+<td align='right' >62,877</td><td align='right' >66,686</td><td align='right' >72,478</td><td align='right' >16,759</td><td align='right' >62,488</td><td align='right' >4,526</td><td align='right' >15,819</td><td align='right' >17,226</td><td align='right' >8.38</td><td align='right' >52,411</td><td align='right' >25.49</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >05월&nbsp;</td>
+<td align='right' >68,373</td><td align='right' >71,711</td><td align='right' >76,987</td><td align='right' >12,767</td><td align='right' >58,178</td><td align='right' >4,653</td><td align='right' >20,864</td><td align='right' >13,817</td><td align='right' >6.72</td><td align='right' >56,920</td><td align='right' >27.69</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >06월&nbsp;</td>
+<td align='right' >65,933</td><td align='right' >63,174</td><td align='right' >67,725</td><td align='right' >13,019</td><td align='right' >59,452</td><td align='right' >4,378</td><td align='right' >20,480</td><td align='right' >16,533</td><td align='right' >8.04</td><td align='right' >51,802</td><td align='right' >25.20</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >07월&nbsp;</td>
+<td align='right' >66,702</td><td align='right' >69,170</td><td align='right' >75,026</td><td align='right' >14,188</td><td align='right' >56,831</td><td align='right' >4,473</td><td align='right' >23,284</td><td align='right' >14,012</td><td align='right' >6.81</td><td align='right' >53,301</td><td align='right' >25.93</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >08월&nbsp;</td>
+<td align='right' >68,354</td><td align='right' >66,549</td><td align='right' >72,949</td><td align='right' >15,666</td><td align='right' >60,773</td><td align='right' >4,774</td><td align='right' >23,776</td><td align='right' >15,717</td><td align='right' >7.64</td><td align='right' >49,730</td><td align='right' >24.19</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >09월&nbsp;</td>
+<td align='right' >71,869</td><td align='right' >70,138</td><td align='right' >75,360</td><td align='right' >14,017</td><td align='right' >59,741</td><td align='right' >4,045</td><td align='right' >24,174</td><td align='right' >17,353</td><td align='right' >8.44</td><td align='right' >49,091</td><td align='right' >23.88</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >10월&nbsp;</td>
+<td align='right' >69,630</td><td align='right' >73,574</td><td align='right' >79,334</td><td align='right' >13,480</td><td align='right' >57,812</td><td align='right' >5,050</td><td align='right' >24,028</td><td align='right' >13,268</td><td align='right' >6.45</td><td align='right' >52,079</td><td align='right' >25.33</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >11월&nbsp;</td>
+<td align='right' >78,491</td><td align='right' >74,990</td><td align='right' >82,527</td><td align='right' >15,429</td><td align='right' >64,844</td><td align='right' >5,078</td><td align='right' >26,930</td><td align='right' >16,665</td><td align='right' >8.10</td><td align='right' >49,841</td><td align='right' >24.24</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >12월&nbsp;</td>
+<td align='right' >77,003</td><td align='right' >78,069</td><td align='right' >84,197</td><td align='right' >20,516</td><td align='right' >74,287</td><td align='right' >4,655</td><td align='right' >25,582</td><td align='right' >15,495</td><td align='right' >7.53</td><td align='right' >47,302</td><td align='right' >23.01</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >06년&nbsp;01월&nbsp;</td>
+<td align='right' >74,251</td><td align='right' >78,037</td><td align='right' >85,234</td><td align='right' >14,232</td><td align='right' >70,947</td><td align='right' >4,403</td><td align='right' >19,575</td><td align='right' >11,634</td><td align='right' >5.57</td><td align='right' >49,136</td><td align='right' >23.56</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >02월&nbsp;</td>
+<td align='right' >75,064</td><td align='right' >67,909</td><td align='right' >72,504</td><td align='right' >14,384</td><td align='right' >61,533</td><td align='right' >4,101</td><td align='right' >18,385</td><td align='right' >18,748</td><td align='right' >8.99</td><td align='right' >49,564</td><td align='right' >23.76</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >03월&nbsp;</td>
+<td align='right' >69,271</td><td align='right' >74,278</td><td align='right' >79,960</td><td align='right' >13,883</td><td align='right' >66,872</td><td align='right' >4,674</td><td align='right' >19,561</td><td align='right' >13,405</td><td align='right' >6.42</td><td align='right' >49,220</td><td align='right' >23.60</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >04월&nbsp;</td>
+<td align='right' >70,074</td><td align='right' >69,063</td><td align='right' >76,045</td><td align='right' >13,878</td><td align='right' >60,085</td><td align='right' >4,527</td><td align='right' >21,635</td><td align='right' >13,937</td><td align='right' >6.68</td><td align='right' >48,896</td><td align='right' >23.44</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >05월&nbsp;</td>
+<td align='right' >77,278</td><td align='right' >77,555</td><td align='right' >82,115</td><td align='right' >15,655</td><td align='right' >61,094</td><td align='right' >4,441</td><td align='right' >22,607</td><td align='right' >13,469</td><td align='right' >6.45</td><td align='right' >55,642</td><td align='right' >26.68</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >06월&nbsp;</td>
+<td align='right' >67,875</td><td align='right' >63,892</td><td align='right' >69,730</td><td align='right' >16,361</td><td align='right' >59,296</td><td align='right' >4,237</td><td align='right' >21,436</td><td align='right' >17,399</td><td align='right' >8.34</td><td align='right' >54,817</td><td align='right' >26.28</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >07월&nbsp;</td>
+<td align='right' >72,342</td><td align='right' >74,779</td><td align='right' >80,872</td><td align='right' >16,280</td><td align='right' >57,000</td><td align='right' >4,355</td><td align='right' >28,474</td><td align='right' >14,769</td><td align='right' >7.08</td><td align='right' >60,089</td><td align='right' >28.81</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >08월&nbsp;</td>
+<td align='right' >78,693</td><td align='right' >74,152</td><td align='right' >81,043</td><td align='right' >18,906</td><td align='right' >62,986</td><td align='right' >4,994</td><td align='right' >32,631</td><td align='right' >19,126</td><td align='right' >9.17</td><td align='right' >56,907</td><td align='right' >27.29</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >09월&nbsp;</td>
+<td align='right' >73,608</td><td align='right' >73,370</td><td align='right' >79,864</td><td align='right' >17,072</td><td align='right' >59,667</td><td align='right' >4,976</td><td align='right' >28,925</td><td align='right' >19,161</td><td align='right' >9.18</td><td align='right' >57,361</td><td align='right' >27.50</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >10월&nbsp;</td>
+<td align='right' >74,251</td><td align='right' >74,649</td><td align='right' >79,250</td><td align='right' >13,589</td><td align='right' >61,512</td><td align='right' >4,406</td><td align='right' >26,327</td><td align='right' >18,632</td><td align='right' >8.93</td><td align='right' >56,238</td><td align='right' >26.97</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >11월&nbsp;</td>
+<td align='right' >76,135</td><td align='right' >74,747</td><td align='right' >81,230</td><td align='right' >16,548</td><td align='right' >68,704</td><td align='right' >4,446</td><td align='right' >25,253</td><td align='right' >19,908</td><td align='right' >9.54</td><td align='right' >53,861</td><td align='right' >25.83</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >12월&nbsp;</td>
+<td align='right' >79,953</td><td align='right' >75,965</td><td align='right' >82,137</td><td align='right' >20,771</td><td align='right' >75,824</td><td align='right' >4,289</td><td align='right' >24,262</td><td align='right' >23,691</td><td align='right' >11.36</td><td align='right' >51,185</td><td align='right' >24.54</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >07년&nbsp;01월&nbsp;</td>
+<td align='right' >72,459</td><td align='right' >76,802</td><td align='right' >84,825</td><td align='right' >16,157</td><td align='right' >73,444</td><td align='right' >4,476</td><td align='right' >19,163</td><td align='right' >19,209</td><td align='right' >9.15</td><td align='right' >53,115</td><td align='right' >25.32</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >02월&nbsp;</td>
+<td align='right' >69,707</td><td align='right' >69,964</td><td align='right' >77,829</td><td align='right' >17,092</td><td align='right' >65,409</td><td align='right' >4,044</td><td align='right' >23,438</td><td align='right' >18,828</td><td align='right' >8.97</td><td align='right' >52,466</td><td align='right' >25.01</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >03월&nbsp;</td>
+<td align='right' >80,734</td><td align='right' >76,374</td><td align='right' >80,986</td><td align='right' >16,817</td><td align='right' >69,058</td><td align='right' >4,411</td><td align='right' >23,476</td><td align='right' >22,413</td><td align='right' >10.68</td><td align='right' >51,057</td><td align='right' >24.34</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >04월&nbsp;</td>
+<td align='right' >67,603</td><td align='right' >70,017</td><td align='right' >76,797</td><td align='right' >16,961</td><td align='right' >65,546</td><td align='right' >3,888</td><td align='right' >24,986</td><td align='right' >19,797</td><td align='right' >9.43</td><td align='right' >48,287</td><td align='right' >23.02</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >05월&nbsp;</td>
+<td align='right' >78,006</td><td align='right' >74,801</td><td align='right' >81,018</td><td align='right' >19,285</td><td align='right' >64,923</td><td align='right' >4,084</td><td align='right' >23,167</td><td align='right' >22,949</td><td align='right' >10.94</td><td align='right' >54,119</td><td align='right' >25.80</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >06월&nbsp;</td>
+<td align='right' >70,694</td><td align='right' >73,032</td><td align='right' >78,135</td><td align='right' >18,130</td><td align='right' >61,452</td><td align='right' >4,049</td><td align='right' >22,994</td><td align='right' >20,507</td><td align='right' >9.77</td><td align='right' >59,671</td><td align='right' >28.45</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >07월&nbsp;</td>
+<td align='right' >72,807</td><td align='right' >73,629</td><td align='right' >78,309</td><td align='right' >15,641</td><td align='right' >62,199</td><td align='right' >4,394</td><td align='right' >22,627</td><td align='right' >19,527</td><td align='right' >9.31</td><td align='right' >62,351</td><td align='right' >29.72</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >08월&nbsp;</td>
+<td align='right' >68,934</td><td align='right' >70,898</td><td align='right' >76,224</td><td align='right' >18,015</td><td align='right' >63,243</td><td align='right' >4,300</td><td align='right' >26,220</td><td align='right' >17,381</td><td align='right' >8.28</td><td align='right' >60,166</td><td align='right' >28.68</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >09월&nbsp;</td>
+<td align='right' >68,246</td><td align='right' >69,888</td><td align='right' >74,202</td><td align='right' >17,002</td><td align='right' >62,764</td><td align='right' >3,899</td><td align='right' >22,933</td><td align='right' >15,531</td><td align='right' >7.40</td><td align='right' >59,868</td><td align='right' >28.54</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >10월&nbsp;</td>
+<td align='right' >71,405</td><td align='right' >70,793</td><td align='right' >76,888</td><td align='right' >17,591</td><td align='right' >66,374</td><td align='right' >4,255</td><td align='right' >26,671</td><td align='right' >16,002</td><td align='right' >7.62</td><td align='right' >54,392</td><td align='right' >25.93</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >11월&nbsp;</td>
+<td align='right' >78,060</td><td align='right' >76,934</td><td align='right' >84,621</td><td align='right' >18,276</td><td align='right' >68,835</td><td align='right' >4,239</td><td align='right' >29,083</td><td align='right' >16,585</td><td align='right' >7.90</td><td align='right' >53,394</td><td align='right' >25.45</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >12월&nbsp;</td>
+<td align='right' >73,887</td><td align='right' >78,984</td><td align='right' >86,064</td><td align='right' >18,162</td><td align='right' >71,699</td><td align='right' >4,506</td><td align='right' >27,313</td><td align='right' >11,637</td><td align='right' >5.54</td><td align='right' >50,720</td><td align='right' >24.18</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >08년&nbsp;01월&nbsp;</td>
+<td align='right' >82,349</td><td align='right' >77,938</td><td align='right' >82,696</td><td align='right' >19,125</td><td align='right' >71,738</td><td align='right' >4,420</td><td align='right' >21,779</td><td align='right' >16,053</td><td align='right' >7.37</td><td align='right' >52,634</td><td align='right' >24.16</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >02월&nbsp;</td>
+<td align='right' >67,889</td><td align='right' >68,196</td><td align='right' >74,323</td><td align='right' >18,347</td><td align='right' >64,794</td><td align='right' >4,508</td><td align='right' >22,571</td><td align='right' >15,757</td><td align='right' >7.23</td><td align='right' >51,506</td><td align='right' >23.64</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >03월&nbsp;</td>
+<td align='right' >72,751</td><td align='right' >73,982</td><td align='right' >79,531</td><td align='right' >18,234</td><td align='right' >68,279</td><td align='right' >4,433</td><td align='right' >23,925</td><td align='right' >14,432</td><td align='right' >6.62</td><td align='right' >50,632</td><td align='right' >23.24</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >04월&nbsp;</td>
+<td align='right' >67,468</td><td align='right' >67,841</td><td align='right' >73,313</td><td align='right' >18,998</td><td align='right' >60,333</td><td align='right' >3,716</td><td align='right' >24,490</td><td align='right' >14,055</td><td align='right' >6.45</td><td align='right' >51,227</td><td align='right' >23.52</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >05월&nbsp;</td>
+<td align='right' >75,927</td><td align='right' >75,426</td><td align='right' >80,753</td><td align='right' >18,595</td><td align='right' >64,259</td><td align='right' >4,076</td><td align='right' >27,126</td><td align='right' >14,511</td><td align='right' >6.66</td><td align='right' >56,112</td><td align='right' >25.76</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >06월&nbsp;</td>
+<td align='right' >67,494</td><td align='right' >65,769</td><td align='right' >71,580</td><td align='right' >17,141</td><td align='right' >58,272</td><td align='right' >4,214</td><td align='right' >27,294</td><td align='right' >16,323</td><td align='right' >7.49</td><td align='right' >53,689</td><td align='right' >24.65</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >07월&nbsp;</td>
+<td align='right' >71,615</td><td align='right' >72,319</td><td align='right' >78,029</td><td align='right' >22,864</td><td align='right' >60,512</td><td align='right' >3,971</td><td align='right' >31,437</td><td align='right' >15,579</td><td align='right' >7.15</td><td align='right' >56,680</td><td align='right' >26.02</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >08월&nbsp;</td>
+<td align='right' >70,245</td><td align='right' >70,182</td><td align='right' >75,788</td><td align='right' >21,198</td><td align='right' >60,783</td><td align='right' >3,734</td><td align='right' >30,970</td><td align='right' >15,613</td><td align='right' >7.16</td><td align='right' >55,110</td><td align='right' >25.30</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >09월&nbsp;</td>
+<td align='right' >69,084</td><td align='right' >72,140</td><td align='right' >80,118</td><td align='right' >21,986</td><td align='right' >61,614</td><td align='right' >4,942</td><td align='right' >32,963</td><td align='right' >12,554</td><td align='right' >5.76</td><td align='right' >55,177</td><td align='right' >25.33</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >10월&nbsp;</td>
+<td align='right' >70,749</td><td align='right' >73,925</td><td align='right' >80,355</td><td align='right' >16,494</td><td align='right' >60,274</td><td align='right' >4,576</td><td align='right' >34,324</td><td align='right' >9,378</td><td align='right' >4.30</td><td align='right' >52,347</td><td align='right' >24.03</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >11월&nbsp;</td>
+<td align='right' >74,279</td><td align='right' >72,859</td><td align='right' >79,277</td><td align='right' >14,159</td><td align='right' >60,272</td><td align='right' >4,156</td><td align='right' >28,712</td><td align='right' >10,804</td><td align='right' >4.96</td><td align='right' >48,256</td><td align='right' >22.15</td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f5ffed' height=20 >12월&nbsp;</td>
+<td align='right' >75,022</td><td align='right' >75,086</td><td align='right' >82,986</td><td align='right' >17,472</td><td align='right' >69,511</td><td align='right' >3,864</td><td align='right' >28,175</td><td align='right' >10,723</td><td align='right' >4.92</td><td align='right' >45,434</td><td align='right' >20.86</td>
+</tr>
+
+								   	<!--전 대비 정보-->
+										<!--통계정보-->
+
+<!--통계정보-->
+
+
+
+										<!--전 대비 정보-->
+									 	<tr bgcolor="ffffff" onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f0f0f0' height=20 >합계</td>
+<td align='right' bgcolor='F0F0F0'>4,295,200</td><td align='right' bgcolor='F0F0F0'>4,305,165</td><td align='right' bgcolor='F0F0F0'>4,653,941</td><td align='right' bgcolor='F0F0F0'>999,767</td><td align='right' bgcolor='F0F0F0'>3,834,515</td><td align='right' bgcolor='F0F0F0'>269,021</td><td align='right' bgcolor='F0F0F0'>1,413,059</td><td align='right' bgcolor='F0F0F0'>962,110</td><td align='right'  bgcolor='F0F0F0' >- </td><td align='right' bgcolor='F0F0F0'>3,139,845</td><td align='right'  bgcolor='F0F0F0' >- </td>
+</tr>
+<tr bgcolor='ffffff' onMouseOver="this.style.background='F0F0F1'" onMouseOut="this.style.background='ffffff'">
+<td colspan="2" align='center' BGCOLOR='#f0f0f0' height=20 >전년동월대비(%)</td>
+<td align='right' bgcolor='F0F0F0'>1.54</td><td align='right' bgcolor='F0F0F0'>-4.94</td><td align='right' bgcolor='F0F0F0'>-3.58</td><td align='right' bgcolor='F0F0F0'>-3.80</td><td align='right' bgcolor='F0F0F0'>-3.05</td><td align='right' bgcolor='F0F0F0'>-14.25</td><td align='right' bgcolor='F0F0F0'>3.15</td><td align='right' bgcolor='F0F0F0'>-7.86</td><td align='right' bgcolor='F0F0F0'>-11.19</td><td align='right' bgcolor='F0F0F0'>-10.42</td><td align='right' bgcolor='F0F0F0'>-13.73</td>
+</tr>
+
+						     	</table>
+						   	</td>
+						 	</tr>
+							<tr>
+							 <td valign=top>&nbsp;</td>
+							</tr>
+							<!--tr>
+							 <td valign=top><font color="00688B"><img src="/img/pet/gray_dot.gif" width="10" height="10" align="absmiddle"></font><font color="00688B">
+							   <strong>보유기간 :</strong> 1986년 부터</font>
+							 </td>
+							</tr-->
+							<tr>
+								<td	width=100% valign=top><strong><font color="green">주)</font></strong>
+									1. 통관 기준.<br>
+								  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. 제품 재고량은 원유를 제외한 정제투입원료 포함.<br>
+								   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. 재고량 합계는 월 평균 재고량임.<br>
+								</td>
+							</tr>
+							<tr>
+							  <td>
+							     <!-- 요약본 인자 String StrProgName 프로그램ID-->
+							     
+							     
+							     <!-- 요약본-->
+							  </td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+		<td width="10">&nbsp;</td>
+  </tr>
+  <!--통계정보-->
+</table>
+</form>
+</body>
+</html>

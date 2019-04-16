@@ -1,0 +1,1792 @@
+% #	Latitude	Longitude	Name
+1	23.548611	116.324167	Xian jiao, Jieyang
+2	45.148623	141.222595	Senhoshi, Hokkaido Prefecture, Japan
+3	27.781647	120.093000	Wencheng, Wenzhou
+4	41.108546	122.994646	Anshan
+5	36.097593	114.392756	Anyang
+6	38.873891	115.464806	Baoding
+7	34.361980	107.237974	Baoji
+8	40.657449	109.840347	Baotou
+9	40.292000	116.220000	Changping Dingling, Beijing
+10	40.217000	116.230000	Changping Town, Beijing
+11	39.982000	116.397000	Chaoyang Olympic Sports Center, Beijing
+12	39.937000	116.461000	Chaoyang Agricultural Exhibition Hall, Beijing
+13	39.718000	116.404000	Huangcunzhen, Daxing, Beijing
+14	39.929000	116.417000	Dongcheng Dongsi, Beijing
+15	39.886000	116.407000	Temple of Heaven, Dongcheng, Beijing
+16	39.939000	116.483000	East Fourth Ring Road, Beijing
+17	39.742000	116.136000	Fangshan, Liangxiang, Beijing
+18	39.824000	116.146000	Fengtai Yungang, Beijing
+19	40.090000	116.174000	The Haidian northern New Area, Beijing
+20	40.002000	116.207000	Haidian Beijing Botanical Garden, Beijing
+21	39.987000	116.287000	Haidian Wanliu, Beijing
+22	40.328000	116.628000	Huairou town, Beijing
+23	40.499000	116.911000	Miyun Reservoir, Beijing
+24	40.100000	117.120000	Donggaocun Zhen, Pinggu, Beijing
+25	39.712000	116.783000	Yongledianzhen, Tongzhou, Beijing
+26	39.520000	116.300000	Yufazhen, Daxing, Beijing
+27	40.365000	115.988000	Badaling Northwest, Beijing
+28	39.580000	116.000000	Liulihezhen, Fangshan, Beijing
+29	39.937000	116.106000	Mentougou, Longquan Town, Beijing
+30	40.370000	116.832000	The town of Miyun, Beijing
+31	39.856000	116.368000	South Ring Road, Beijing
+32	40.143000	117.100000	Pinggu town, Beijing
+33	39.899000	116.395000	Qianmen E St, Dongcheng, Beijing
+34	39.914000	116.184000	Shijingshan city, Beijing
+35	40.127000	116.655000	Shunyi New Town, Beijing
+36	39.886000	116.663000	Tongzhou New Town, Beijing
+37	39.954592	116.468117	Beijing US Embassy, Beijing
+38	39.929000	116.339000	West Park officials, Beijing
+39	39.878000	116.352000	West Wanshou Nishinomiya, Beijing
+40	39.954000	116.349000	Xizhimen N St, Beijing
+41	40.453000	115.972000	Yanqing town, Beijing
+42	39.795000	116.506000	BDA, Beijing
+43	39.876000	116.394000	Yongdingmen Inner St, Beijing
+44	41.294176	123.766485	Benxi
+45	37.381990	117.970703	Binzhou
+46	38.304477	116.838835	Cangzhou
+47	43.816964	125.323471	Changchun
+48	29.031673	111.698497	Changde
+49	28.228209	112.938814	Changsha
+50	36.195386	113.116255	Changzhi
+51	31.810077	119.974454	Changzhou
+52	41.573734	120.450372	Chaoyang
+53	40.954071	117.962411	Chengde
+54	30.625014	104.067056	Chengdu
+55	30.625014	104.067056	Chengdu US Consulate, Chengdu
+56	42.257817	118.886856	Chifeng
+57	41.089722	122.963611	Mingda district, Anshan
+58	41.012485	123.116695	Qianshan, Anshan, Anshan
+59	41.031458	123.138067	Qianshan Park, Anshan
+60	41.135121	123.026248	Shengou Temple, Anshan
+61	40.247241	123.554882	taiping, Anshan, Anshan
+62	41.151222	123.046695	Taiping Station, Anshan
+63	41.092982	123.013448	Taiyang, Anshan
+64	41.119778	122.969672	Tiexi, Anshan
+65	41.101412	122.973212	Tiexi Sandao jie, Anshan
+66	41.104806	122.997223	Central Station, Anshan
+67	36.086667	114.320000	Hongmiao Street, Anyang
+68	36.081389	114.480556	Cotton Research Institute, Anyang
+69	36.110000	114.303333	Tiefo Temple, Anyang
+70	36.056389	114.358889	Yinxing Compound, Anyang
+71	34.354722	107.143056	Monitoring station, Baoji
+72	34.373889	107.118611	Technical Schools, Baoji
+73	34.300540	107.191004	Miaogou Village, Baoji
+74	34.361478	107.244888	Sandi Primary School, Baoji
+75	34.367222	107.190556	Sanlu Hospital, Baoji
+76	34.346985	107.209601	University of Arts, Baoji
+77	34.301667	107.076667	Zhuyuangou, Baoji
+78	40.507222	109.813333	Baotou shopping mall, Baotou
+79	40.585000	109.996389	Donghe EPB, Baotou
+80	40.610562	109.967450	Dong he hong longwan, Baotou
+81	40.632355	109.874188	Huilong logistics, Baotou
+82	40.681944	109.853611	Qingshan binguan, Baotou
+83	40.656111	109.881111	City Environmental Monitoring Station, Baotou
+84	21.425278	109.177778	Beihai Industrial Park, Beihai
+85	21.404167	109.153333	Haitan Park, Beihai
+86	21.596111	109.225556	Niuweiling reservoir, Beihai
+87	21.466111	109.098056	New EPA, Beihai
+88	41.299494	123.740146	Caitun, Benxi
+89	41.306052	123.812641	Dayu, Benxi
+90	41.290278	123.759167	Dongming, Benxi
+91	41.347611	123.820284	Weining, Benxi
+92	41.329219	123.767647	Xihu, Benxi
+93	41.262083	123.805710	Xinlitun, Benxi, Benxi
+94	41.303333	123.740556	Occupational disease hospital, Benxi
+95	43.850000	125.217000	Daishan Park, Changchun
+96	43.816700	125.250000	High-tech Zone Administrative Committee, Changchun
+97	43.866700	125.417000	Economic Development Zone Sanitation Department, Changchun
+98	43.787800	125.454000	Jinyuetan, Changchun
+99	43.910000	125.287000	Bus Factory, Changchun
+100	43.874800	125.364900	Laodong Park, Changchun
+101	43.916700	125.323000	Food Factory, Changchun
+102	43.550000	125.633000	Shuaiwanzi, Changchun
+103	43.840000	125.278600	Institute of Posts and Telecommunications, Changchun
+104	43.869400	125.325000	Forest area, Changchun
+105	29.075556	111.730000	Baihe Hill, Changde
+106	29.017361	111.686250	Dingcheng District EPB, Changde
+107	28.970389	111.701528	No.2 middle school, Changde
+108	29.041111	111.668056	Municipal Technical Supervision Bureau, Changde
+109	28.220300	112.888000	High-tech Zone EPA, Changsha
+110	28.189700	112.944000	Hunan Normal University, Changsha
+111	28.130800	112.891000	Hunan University of Traditional Chinese Medicine, Changsha
+112	28.194400	113.001000	New train station, Changsha
+113	28.242200	113.082000	Economic Development Zone EPA, Changsha
+114	28.201100	113.078000	Mapoling, Changsha
+115	28.358600	112.996000	Shaping, Changsha
+116	28.117800	112.984000	Tianxin District EPB, Changsha
+117	28.259700	112.979000	Wujialing, Changsha
+118	28.143000	113.003000	Yuqua District EPB, Changsha
+119	36.196056	113.146583	Aoruite, Changzhi
+120	36.185281	113.092816	No.8 middle school, Changzhi
+121	36.193889	113.097222	Monitoring station, Changzhi
+122	36.154167	113.109722	Qinghua station, Changzhi
+123	36.212611	113.088556	Auditing bureau, Changzhi
+124	41.566267	120.413810	Bali bao, Chaoyang, Chaoyang
+125	43.937383	125.240978	Agricultural Area, Chaoyang
+126	41.817091	120.507776	xi liang, Chaoyang, Chaoyang
+127	30.654400	104.026000	Caotang Temple, Chengdu
+128	30.713000	103.972000	Jinquan lianghe, Chengdu
+129	30.685000	104.074000	Liang Lane, Chengdu
+130	31.028300	103.613000	Lingyansi, Chengdu
+131	30.657800	104.054000	People's Park, Chengdu
+132	30.570600	104.079000	Sanwayao, Chengdu
+133	30.636100	104.118000	Shahepu, Chengdu
+134	30.687200	104.176000	Shilidian, Chengdu
+135	42.278652	118.981876	Hada Street, Chifeng
+136	42.169545	118.888852	Songshan Road, Chifeng
+137	42.327222	118.786667	Songshan No.1 Middle School, Chifeng
+138	42.273611	118.878889	Tianyi Road, Chifeng
+139	38.863889	121.625000	Fujiazhuang, Dalian
+140	38.973889	121.611944	Ganjingzi, Dalian
+141	39.131100	121.748100	Jinzhou, Dalian
+142	39.051100	121.776900	BDA, Dalian
+143	38.808056	121.258889	Lushun, Dalian
+144	38.911944	121.633056	Qingniwa Bridge, Dalian
+145	38.856111	121.518056	Qixianling, Dalian
+146	39.063100	121.976900	D&D Port, Dalian
+147	38.885000	121.563889	Xinghai No 3 station, Dalian
+148	38.951111	121.565000	Zhoushuizi, Dalian
+149	40.157134	124.426767	Financial school, Dandong
+150	40.151168	124.425919	linjiang houjie, Dandong, Dandong
+151	40.111401	124.367794	minzhu bridge, Dandong, Dandong
+152	39.885819	124.152274	Experimental Primary School, Dandong
+153	40.144699	124.393240	yuanbaoshan, Dandong, Dandong
+154	40.147836	124.385861	Yuanbaoshan water, Dandong
+155	40.067405	124.339954	Bearing Factory, Dandong
+156	19.527500	109.503700	Dongpo school sub-station, Danzhou
+157	19.528410	109.635830	Heqing Power Station, Danzhou
+158	19.508800	109.503700	City first secondary school sub-station, Danzhou
+159	46.033333	124.716667	Datong District, Daqing
+160	46.416667	124.883333	Honggang District, Daqing
+161	46.533333	125.100000	Longfeng District, Daqing
+162	46.633333	124.850000	Ranghulu District, Daqing
+163	46.600000	125.066667	Saertu District, Daqing
+164	40.126944	113.266111	Anjiaxiao village, Datong
+165	40.091667	113.344444	Datong university, Datong
+166	40.109722	113.381944	Guoshu farm, Datong
+167	40.095833	113.285833	Hongqi square, Datong
+168	40.084444	113.271111	college of education, Datong
+169	40.075833	113.271111	Yungang Hotel, Datong
+170	31.120800	104.421900	Dongshan Park, Deyang
+171	31.110800	104.353900	Refractory Factory, Deyang
+172	31.116700	104.405300	City Procuratorate, Deyang
+173	31.133300	104.388300	Xixiaoqu, Deyang
+174	19.120200	108.805800	Datianzhong School sub-station, Dongfang
+175	19.043571	108.646840	Industrial Park police station, Dongfang
+176	19.096600	108.647200	City Archives sub-station, Dongfang
+177	19.100500	108.677700	City Land Resources Bureau station, Dongfang
+178	39.788158	109.982053	Olympus Garden, Eerduosi
+179	39.810819	109.961236	Bayinmengke forest office, Eerduosi
+180	39.836074	109.966570	Huatai Automobile Mall, Eerduosi
+181	39.598888	109.782058	Kangzeyuan, Eerduosi
+182	39.816540	109.995465	Zonghe lou, Eerduosi
+183	41.853192	124.038685	Dongzhou, Fushun
+184	41.802540	123.625945	Shenfu new town, Fushun
+185	41.844167	123.796944	Reservoir, Fushun
+186	41.886389	123.787778	Wanghua, Fushun
+187	41.886495	123.927217	Xinhua, Fushun
+188	41.894950	124.011637	Train Station, Fushun
+189	42.026998	121.676130	Dongyuan, Fuxin, Fuxin
+190	42.038874	121.710064	Industrial Area, Fuxin
+191	42.069146	121.690984	Agricultural Area, Fuxin
+192	42.032999	121.661141	Yulong Metro, Fuxin, Fuxin
+193	26.072105	119.352919	Gushan, Fuzhou
+194	26.028202	119.418528	Kuaian, Fuzhou
+195	26.038712	119.309506	Normal Univertsity, Fuzhou
+196	26.086796	119.308179	Wusi North Road, Fuzhou
+197	26.076795	119.266218	Yangqiao West  Road, Fuzhou
+198	26.076788	119.324574	Ziyang, Fuzhou
+199	25.235778	110.258000	No.8 middle school, Guilin
+200	25.268000	110.390000	UESTC Yaoshan Campus, Guilin
+201	25.257000	110.242000	Monitoring station, Guilin
+202	25.250833	110.308889	Longyin Primary School, Guilin
+203	26.600900	106.710500	Hongbianmen, Guiyang
+204	26.436400	106.655400	Huaxi District, Guiyang
+205	26.626600	106.624300	Jinyang New District, Guiyang
+206	26.602900	106.685600	Ma'anshan, Guiyang
+207	26.568900	106.697100	City EPA station, Guiyang
+208	26.300300	106.805000	Tongmuling, Guiyang
+209	26.634300	106.748700	Wudang District, Guiyang
+210	26.515500	106.694800	Xiaohe District, Guiyang
+211	26.569700	106.716400	Yejingting, Guiyang
+212	45.542200	126.979000	Acheng huining, Haerbin
+213	45.747800	126.593000	Daoli Jianguo Road, Haerbin
+214	45.766700	126.635000	Daowai Chengde Square, Haerbin
+215	45.725800	126.646000	Dongli Heping Road, Haerbin
+216	45.981900	126.610600	Hulan Normal College, Haerbin
+217	45.755000	126.542000	Lingbei, Haerbin
+218	45.722200	126.599000	Nangang College Street, Haerbin
+219	45.610000	126.615000	Pingfang Light Factory, Haerbin
+220	45.684200	126.620600	Provincial Academy of Agricultural Sciences, Haerbin
+221	45.816700	126.561000	Songbei Commercial University, Haerbin
+222	45.773300	126.689000	Taiping Hongwei Park, Haerbin
+223	45.731900	126.685000	Xiangfang Hongqi Street, Haerbin
+224	19.950700	110.576000	Zhongzhai Port, Haikou
+225	20.057400	110.323200	Hainan University, Haikou
+226	19.996900	110.338000	Hainan Normal University, Haikou
+227	20.035600	110.330000	Longhua road EPA dormitory, Haikou
+228	20.005300	110.283000	Xiuying Hainan Hospital, Haikou
+229	31.795600	117.302000	Baohe District, Hefei
+230	31.738600	117.278000	Lake district, Hefei
+231	31.857200	117.250000	Changjiang middle road, Hefei
+232	31.905100	117.160000	Dongpu Reservoir, Hefei
+233	31.851600	117.124000	High-tech zone, Hefei
+234	31.870600	117.259000	Hupo Compound, Hefei
+235	31.943800	117.266000	Luyang District, Hefei
+236	31.784800	117.196000	Mingzhu Plaza, Hefei
+237	31.876600	117.307000	Sanli Street, Hefei
+238	31.858500	117.336000	Yaohai District, Hefei
+239	23.723330	114.689200	Heyuan high school, Heyuan
+240	23.757006	114.698816	No.3 elementary school, Heyuan
+241	23.691437	114.950036	City water company, Heyuan
+242	40.277474	111.204041	No.29 Middle School, Hohhot
+243	40.842299	111.749138	Engineering University, Jinchuan Campus, Hohhot
+244	40.757093	111.724539	Fertilizer Factory Living Area, Hohhot
+245	40.795085	111.628978	No.1 Prison, Hohhot
+246	40.842299	111.749138	Ruyi Sewage Plant, Hohhot
+247	40.812974	111.615625	Sugar refinery, Hohhot
+248	40.799964	111.661244	Xiaozhao, Hohhot
+249	40.845941	111.661607	Xingsong Compound, Hohhot
+250	40.773914	120.866584	Dongcheng District, Huludao, Huludao
+251	40.757419	120.837757	huagong street, Huludao, Huludao
+252	40.754193	120.843270	Huagong hospital, Huludao
+253	40.722688	120.916878	Xishanpo, Huludao
+254	40.774041	120.867172	Lianshan district governement, Huludao
+255	40.278910	120.204113	Xinqu, Huludao
+256	40.721979	120.848651	New district park, Huludao
+257	35.176389	113.246389	High-tech District Government, Jiaozuo
+258	35.212778	113.226667	City EPA, Jiaozuo
+259	35.235556	113.261111	City Monitoring Station, Jiaozuo
+260	35.268778	113.199278	Movie and Film Studio Base, Jiaozuo
+261	39.812293	98.225891	Jiuquan Refractories Company, Jiayuguan
+262	39.771835	98.290554	Bureau of Meteorology, Jiayuguan
+263	43.825000	126.496389	Electric Power College, Jilin
+264	43.836389	126.584444	Dongjuzi, Jilin
+265	43.765833	126.673056	Fengman, Jilin
+266	43.885833	126.540000	Hadawan, Jilin
+267	43.905833	126.602500	Jiangbei, Jilin
+268	43.833056	126.550833	Jiangnan Park, Jilin
+269	43.957570	126.469811	Agricultural Science Academy, Jilin
+270	38.512683	102.184532	Jinchuan Company No.2 Guest House, Jinchang
+271	38.524444	102.189444	Municipal Science and Technology Commission, Jinchang
+272	35.493242	112.835426	Baiyun shopping mall, Jincheng
+273	35.485291	112.871993	Institute of Technology, Jincheng
+274	35.488839	112.852421	City EPA, Jincheng
+275	35.479114	112.832493	No.1 middle school, Jincheng
+276	35.505190	112.851133	Water Company, Jincheng
+277	30.305500	112.288700	kerong EPA, Jingzhou
+278	30.317500	112.255139	City Library, Jingzhou
+279	30.353056	112.201667	City committee communist party school, Jingzhou
+280	37.697214	112.764524	Jinlun compound, Jinzhong
+281	37.712480	112.725563	Nandu compound, Jinzhong
+282	37.687692	112.719383	Hydraulic Component Factory, Jinzhong
+283	37.697580	112.707727	Yuci district government, Jinzhong
+284	41.120200	121.204782	baigu street, Jinzhou, Jinzhou
+285	41.139368	121.131697	Beihu Park, Jinzhou
+286	41.111389	121.135278	Monitoring station, Jinzhou
+287	40.852095	121.056188	BDA, Jinzhou
+288	41.568383	122.041263	Nanshan, Jinzhou
+289	41.122390	121.120465	tianan street, Jinzhou, Jinzhou
+290	29.586667	115.993611	Lushan Mountain Observatory, Jiujiang
+291	29.704750	115.958139	Maoshantou, Jiujiang
+292	29.753361	116.089250	Petrochemical General Plant, Jiujiang
+293	29.681556	115.987222	Shili, Jiujiang
+294	29.692611	116.062750	Water Scientific Research Institute, Jiujiang
+295	29.653472	116.017444	Wuqierling Factory, Jiujiang
+296	29.729222	115.988000	Xiyuan, Jiujiang
+297	29.603889	115.911444	Zonghe Industrial Park, Jiujiang
+298	34.796576	114.380156	Maternity And Child Hospital, Kaifeng
+299	34.800119	114.346797	Henan University No.1 Hospital, Kaifeng
+300	34.826907	114.318907	Yellow River Conservancy Institute, Kaifeng
+301	34.794520	114.296915	Shijixing Kindergarden, Kaifeng
+302	34.776274	114.344389	Cancer Hospital, Kaifeng
+303	25.035900	102.638000	Biji Square, Kunming
+304	24.888500	102.821000	Chenggong New Area, Kunming
+305	25.040500	102.722000	Dongfeng East Road, Kunming
+306	25.012400	102.743000	Guanshang, Kunming
+307	25.067000	102.681000	Jinding Mountain, Kunming
+308	25.083600	102.728000	Longquan Town, Kunming
+309	24.962400	102.625000	Xishan Forest Park, Kunming
+310	36.103100	103.631000	Lanlian hotel, Lanzhou
+311	36.072500	103.841000	Biological Product Institute, Lanzhou
+312	36.046400	103.831000	Railway Design Institute, Lanzhou
+313	35.940000	104.148000	Yuzhong landa Campus, Lanzhou
+314	36.075600	103.712000	Worker hospital, Lanzhou
+315	29.635000	91.130300	Bakuo street, Lhasa
+316	29.633900	91.075800	Lhasa Railway Station, Lhasa
+317	29.664700	91.105000	District radiation station, Lhasa
+318	29.634700	91.083300	District Monitoring Station, Lhasa
+319	29.651400	91.130000	City EPA, Lhasa
+320	29.644400	91.126400	Tibet University, Lhasa
+321	18.742200	109.177700	Land Environment and Resources Bureau, Ledongxian
+322	41.174703	123.413797	Riverside Road, Liaoyang, Liaoyang
+323	41.258982	123.183182	xinhua yuan, Liaoyang, Liaoyang
+324	36.082222	111.516944	Gongshang college, Linfen
+325	36.071389	111.502778	Technical Schools, Linfen
+326	36.078333	111.553056	Lingang hospital, Linfen
+327	36.041667	111.491667	South Airport, Linfen
+328	36.097778	111.512500	City Monitoring Station, Linfen
+329	36.087500	111.502500	Municipal party committee, Linfen
+330	24.315833	109.483889	Guting Hill, Liuzhou
+331	24.345833	109.384444	Hexi water supply company, Liuzhou
+332	24.326389	109.410000	EPA Station, Liuzhou
+333	24.389778	109.488278	Liudong Primary School, Liuzhou
+334	24.384444	109.377222	No.9 middle school, Liuzhou
+335	24.200000	109.420000	No.4 middle school, Liuzhou
+336	34.686667	112.503333	Henan Forestry College, Luoyang
+337	34.623056	112.384444	BDA Management Committee, Luoyang
+338	34.670000	112.433333	City Monitoring Station, Luoyang
+339	34.651111	112.393889	City committee communist party school, Luoyang
+340	34.624722	112.426667	New municipal office, Luoyang
+341	34.686944	112.466389	Yuxi Hotel, Luoyang
+342	34.669167	112.362778	CITIC No.2 Elementary School, Luoyang
+343	28.958300	105.430600	Jiushi Hill, Luzhou
+344	28.855800	105.432200	Lantianxian Bridge, Luzhou
+345	28.898900	105.432200	City Environment Monitoring Station, Luzhou
+346	28.902600	105.443600	Xiaoshishang Port, Luzhou
+347	37.516092	111.128726	Soybean factory, Luliang
+348	37.521402	111.137996	City EPA, Luliang
+349	37.533143	111.132460	Water Company, Luliang
+350	31.750556	118.510556	Cihu No.2 elementary school, Maanshan
+351	31.686111	118.505833	Hudong Road No.4 Elementary School, Maanshan
+352	31.692778	118.480000	Maanshan steel factory power plant, Maanshan
+353	31.713333	118.643889	City education base, Maanshan
+354	31.643889	118.482778	Tianping Garment Factory, Maanshan
+355	31.474700	104.777800	Fuleshan, Mianyang
+356	31.465600	104.671700	High-tech Zone Water Company, Mianyang
+357	31.507200	104.728300	No.3 water company, Mianyang
+358	31.453900	104.753600	Municipal People's Congress, Mianyang
+359	44.565833	129.610000	No. 1 hospital, Mudanjiang
+360	44.565833	129.613611	EPA building, Mudanjiang
+361	44.608611	129.645556	Locomotive Factory, Mudanjiang
+362	44.584444	129.616111	Cultural Square, Mudanjiang
+363	28.686900	115.852000	Contruction Industry College, Nanchang
+364	28.696900	115.973000	Jingdong town government, Nanchang
+365	28.744200	115.813000	Institute of Forestry, Nanchang
+366	28.698000	115.888000	Provincial forestry company, Nanchang
+367	28.684400	115.893000	Jiangxi Foreign Affairs Office, Nanchang
+368	28.684400	115.931000	Provincial Station, Nanchang
+369	28.613100	115.912000	Petrifaction Company, Nanchang
+370	28.799400	115.742000	Martial Arts School, Nanchang
+371	28.642500	115.892000	Xianghu, Nanchang
+372	30.785600	106.106400	Gaoping District Monitoring Station, Nanchong
+373	30.763600	106.064200	Jialing District EPB, Nanchong
+374	30.821700	106.103100	Refinery Factory, Nanchong
+375	30.802300	106.078900	City Committee, Nanchong
+376	30.838800	106.108700	City Environmental Monitoring Station, Nanchong
+377	30.806400	106.056000	Xishan scenic area, Nanchong
+378	22.856100	108.316000	Beihu, Nanning
+379	22.805000	108.383000	Daziran Garden, Nanning
+380	22.846400	108.239000	District Agricultural Vocational College, Nanning
+381	22.822500	108.321000	City Monitoring Station, Nanning
+382	22.790600	108.439000	Xianhu, Nanning
+383	22.735000	108.328000	Yinghua jiayuan, Nanning
+384	22.787500	108.301000	Zhenning Garden, Nanning
+385	41.159612	121.923678	Dingxiang, Panjin
+386	41.155037	122.060968	BDA, Panjin
+387	41.138824	122.105840	Xinglongtai, Panjin
+388	41.160535	121.929739	xinsheng jiedao, Panjin, Panjin
+389	26.585000	101.716900	Bingcaogang, Panzhihua
+390	26.592800	101.576900	Hemenkou, Panzhihua
+391	26.556900	101.847200	Jinjina, Panzhihua
+392	26.570300	101.693900	Nongnongping, Panzhihua
+393	26.501700	101.745300	Renhe, Panzhihua
+394	33.721389	113.306389	High Voltage Switchgear Factory, Pingdingshan
+395	33.736667	113.291667	City Planning Design Institute, Pingdingshan
+396	33.773889	113.181944	Engineering College, Pingdingshan
+397	33.739167	113.322500	Xinhua Hotel, Pingdingshan
+398	23.627222	113.062222	Fupin district, Qingyuan
+399	23.693600	113.042500	Environment protection office, Qingyuan
+400	19.231700	110.460800	City Environmental Building Station, Qionghai
+401	19.248880	110.468700	City People's Hospital, Qionghai
+402	47.363617	123.930450	Anju Compound, Qiqihaer
+403	47.183333	123.616667	Fuqu EPA, Qiqihaer
+404	47.383333	123.983333	Farming Vehicule Factory, Qiqihaer
+405	47.301569	123.950951	City Environmental Monitoring Station, Qiqihaer
+406	47.383333	123.916667	City Center Square, Qiqihaer
+407	24.942500	118.593889	Qingyuan Montain, Quanzhou
+408	25.116667	103.541667	Environmental Monitoring Station, Qujing
+409	25.534613	103.803392	Tobacco Factory office, Qujing
+410	34.791667	111.185833	No.2 Printing Factory, Sanmenxia
+411	34.799722	111.148889	Fengjing district, Sanmenxia
+412	34.801389	111.198333	BDA, Sanmenxia
+413	34.777222	111.192778	City government, Sanmenxia
+414	18.249083	109.507700	Hedongzi Station, Sanya
+415	18.268300	109.496315	Hexizi Station, Sanya
+416	23.250000	116.603333	Chaoyangzi, Shantou
+417	23.471389	116.751944	Chenghaizi, Shantou
+418	23.277500	116.725833	Haojiangzi, Shantou
+419	23.366667	116.679444	Jinpingzi, Shantou
+420	23.363889	116.724444	Longhuzi, Shantou
+421	24.810833	113.539722	Bihu shanzhuang, Shaoguan
+422	24.686111	113.596389	Qujiang Monitoring Station, Shaoguan
+423	24.793889	113.641388	Shaoguan University, Shaoguan
+424	24.770833	113.578333	No.8 middle school, Shaoguan
+425	24.799166	113.606944	Forest area, Shaoguan
+426	41.692910	123.429526	bai ta, Shenyang, Shenyang
+427	41.847200	123.428000	Beiling, Shenyang
+428	41.821546	123.556557	Tanglin Road, Shenyang, Shenyang
+429	41.708900	123.439000	Dongruan, Shenyang
+430	41.780600	123.360600	Ermao, Shenyang
+431	41.833300	123.642000	Huishan, Shenyang
+432	41.752206	123.525957	hun nan dong lu, Shenyang, Shenyang
+433	41.756100	123.535000	Hunnan, Shenyang
+434	41.828300	123.355000	Liaoning University, Shenyang
+435	41.833600	123.542000	Artillery College, Shenyang
+436	41.797200	123.400000	Taiyuan Street, Shenyang
+437	41.771718	123.435715	wenhua street, Shenyang, Shenyang
+438	41.765000	123.410000	Wenyi Road, Shenyang
+439	41.777500	123.478000	Xiaoheyan, Shenyang
+440	41.769400	123.284000	Zhangshi, Shenyang
+441	39.000214	106.372538	Dawukou huanghe East Street, Shizuishan
+442	39.239302	106.781176	Hongguozi Town Huixin Street, Shizuishan
+443	39.220000	107.333333	Huinong South Street, Shizuishan
+444	39.348104	112.446613	Pingshuo, Shuozhou
+445	39.319691	112.423782	District Government, Shuozhou
+446	39.376772	112.426014	No.2 middle school, Shuozhou
+447	39.330314	112.401123	City EPA, Shuozhou
+448	37.887300	112.522000	Jiancaoping, Taiyuan
+449	37.910300	112.573000	Jianhe, Taiyuan
+450	37.780500	112.488000	Jinsheng, Taiyuan
+451	37.712400	112.469000	Jinyuan, Taiyuan
+452	37.985400	112.549000	Nanzhai, Taiyuan
+453	38.010800	112.434000	Shanglan, Taiyuan
+454	37.869200	112.537000	Taoyuan, Taiyuan
+455	37.819500	112.570000	Wucheng, Taiyuan
+456	37.781400	112.477000	Xiaodian, Taiyuan
+457	42.308996	123.839747	Huigong Street West, Tieling, Tieling
+458	42.222668	123.726801	jinsha jiang lu bei, Tieling, Tieling
+459	42.294964	123.874963	Waterpark, Tieling
+460	35.066667	109.066667	Wangyi District Government, Tongchuan
+461	34.908916	108.980514	Xinqu lanzhi gongsi, Tongchuan
+462	34.505001	109.430783	Gaoxin yi xiao, Weinan
+463	34.510000	109.529167	Agriculture Science Institute, Weinan
+464	34.500278	109.500278	Daily newspaper office, Weinan
+465	31.350833	118.352778	Monitoring station, Wuhu
+466	31.418889	118.370000	Science Innovation Center, Wuhu
+467	31.317778	118.370833	No.4 Water Plant, Wuhu
+468	31.383889	118.402222	Wuqierling Factory, Wuhu
+469	18.778000	109.521600	Institute of Forestry, Wuzhishan
+470	18.779120	109.516400	Qiongnan TV station, Wuzhishan
+471	24.445833	118.063611	Gulangyu, Xiamen
+472	24.476667	118.151389	Hongwen, Xiamen
+473	24.515000	118.094167	Huli, Xiamen
+474	24.818056	118.156944	Xidong, Xiamen
+475	34.378000	108.869000	Caotan, Xian
+476	34.154600	108.906000	Chang'an District, Xian
+477	34.257200	109.060000	Fangzhicheng, Xian
+478	34.230300	108.883000	Gaoxin West Area, Xian
+479	34.274900	108.882000	High Voltage Switchgear Factory, Xian
+480	34.327400	109.043000	Guangyuntan, Xian
+481	34.347400	108.935000	Economic Development Zone, Xian
+482	34.373100	109.218600	Lintong District, Xian
+483	34.197800	108.985000	Qujiang Cultural Industry Group, Xian
+484	34.271300	108.954000	City People Stadium, Xian
+485	34.232400	108.940000	Xiaozhai, Xian
+486	34.262900	108.993000	Xingqing Compound, Xian
+487	34.657500	109.200000	Yanliang District, Xian
+488	27.861111	112.955556	Ban tang, Xiangtan
+489	27.857500	112.918333	Jiang lu, Xiangtan
+490	27.911667	112.907500	HKUST, Xiangtan
+491	27.915005	112.526502	Shaoshan, Xiangtan
+492	27.857641	112.895689	City Monitoring Station, Xiangtan
+493	27.816944	112.920000	Yue tang, Xiangtan
+494	27.961788	113.021728	Zhaoshan, Xiangtan
+495	34.395833	108.720000	Weather Monitoring Station, Xianyang
+496	35.833333	108.725833	Normal university, Xianyang
+497	34.318056	108.676389	Zhonghua xiaoqu, Xianyang
+498	34.318737	108.740808	TCM Medical College, Xianyang
+499	36.617144	101.778228	No.5 Water Plant, Xining
+500	36.617144	101.778228	Provincial Pharmaceutical Warehouse, Xining
+501	36.590489	101.753782	City Environmental Monitoring Station, Xining
+502	36.578752	101.847291	Silu hospital, Xining
+503	38.491488	112.703247	Convention Center, Xinzhou
+504	38.412710	112.735863	Jiyin, Xinzhou
+505	36.576667	109.482222	City Monitoring Station, Yanan
+506	36.600000	109.478889	University Hospital, Yanan
+507	36.627500	109.413056	Zao yuan, Yanan
+508	37.847500	113.622222	Bai yang shu, Yangquan
+509	37.850000	113.515833	Da yangquan, Yangquan
+510	37.879444	113.580000	Nanzhuang, Yangquan
+511	37.847500	113.572222	Pingtan, Yangquan
+512	37.879444	113.492222	Sai yu, Yangquan
+513	37.847500	113.572222	City center, Yangquan
+514	28.715800	104.576100	Huangjinzui, Yibin
+515	28.819400	104.596900	Shima Middle School, Yibin
+516	28.766100	104.622500	Municipal party committee, Yibin
+517	28.763900	104.641700	City government, Yibin
+518	28.786700	104.606100	No. 4 middle school, Yibin
+519	30.698000	111.299222	Bai longgang, Yichang
+520	30.695972	111.268000	Dianjun district, Yichang
+521	30.698056	111.300833	Silingsan Factory, Yichang
+522	30.646389	111.355000	Wujiagang, Yichang
+523	30.781861	111.329583	Yiling district, Yichang
+524	38.497500	106.233000	Helanshan East Road, Yinchuan
+525	38.601600	105.951000	Helanshan Maliankou, Yinchuan
+526	38.453600	106.217000	Ning'an street, Yinchuan
+527	38.485800	106.072000	Ninghua living area, Yinchuan
+528	38.503600	106.136000	College Road, Yinchuan
+529	38.474400	106.268200	Yinhu Lane, Yinchuan
+530	40.707576	122.277248	Daqing Road, Yingkou, Yingkou
+531	40.652260	122.216748	jinghu west street, Yingkou, Yingkou
+532	40.680303	122.379967	No.3 water company, Yingkou
+533	40.666988	122.172810	Xi paotai, Yingkou
+534	40.681937	122.382897	Yingkou University, Yingkou
+535	40.710069	122.276386	Botanical garden, Yingkou
+536	29.425556	113.150556	Chenglingji, Yueyang
+537	29.353889	113.001944	Junshan, Yueyang
+538	29.378056	113.170833	BDA, Yueyang
+539	29.472746	113.272313	Yunxi District, Yueyang
+540	35.085079	111.047401	Airport new district, Yuncheng
+541	35.051312	111.023681	Yudou BDA, Yuncheng
+542	24.341111	102.496389	Dayingjie town, Yuxi
+543	24.369444	102.577778	Dongfeng Reservoir, Yuxi
+544	24.360278	102.543333	City Monitoring Station, Yuxi
+545	29.129167	110.466944	Power Administration Bureau, Zhangjiajie
+546	29.349475	110.544807	Weiyang Road, Zhangjiajie
+547	29.113117	110.500681	Yongding District, Zhangjiajie
+548	29.300000	110.416667	Yuanjiajie, Zhangjiajie
+549	34.953600	113.636400	Gangli Reservoir, Zhengzhou
+550	34.808300	113.565000	Water Supply Company, Zhengzhou
+551	34.718700	113.727000	Economic Development Zone Management Committee, Zhengzhou
+552	34.749600	113.599100	City Monitoring Station, Zhengzhou
+553	34.773200	113.733900	No. 47 middle school, Zhengzhou
+554	34.754500	113.681000	Tobacco Factory, Zhengzhou
+555	34.801900	113.675000	Banking College, Zhengzhou
+556	34.774500	113.641000	Textile Machinery Factory, Zhengzhou
+557	29.482200	106.364000	Baishiyi, Chongqing
+558	29.427200	106.591000	Caijia, Chongqing
+559	29.489200	106.634000	Chayuan, Chongqing
+560	29.573600	106.460000	Gaojia Garden, Chongqing
+561	29.598300	106.296000	Huqi, Chongqing
+562	29.564200	106.571000	Liberation Monument, Chongqing
+563	29.827200	106.379000	Jinyun Mountain, Chongqing
+564	29.712500	106.617000	Konggang, Chongqing
+565	29.722800	106.626000	Liang lu, Chongqing
+566	29.645300	106.562000	Lijia, Chongqing
+567	29.518600	106.540000	Nanping, Chongqing
+568	29.709200	106.452000	Nanquan, Chongqing
+569	29.621900	106.650000	Tangjiatuo, Chongqing
+570	29.826400	106.424000	Tiansheng, Chongqing
+571	29.489200	106.468000	Xinshan village, Chongqing
+572	29.516400	106.512000	Yangjiaping, Chongqing
+573	29.509200	106.509000	Yuxin Street, Chongqing
+574	27.833611	113.251389	Dajing, Zhuzhou
+575	27.838056	113.143333	Railway station, Zhuzhou
+576	27.852778	113.130000	City Monitoring Station, Zhuzhou
+577	27.797906	113.190211	No.4 middle school, Zhuzhou
+578	27.824444	113.134722	Tiantai shanzhuang, Zhuzhou
+579	27.886667	113.095278	Zhuye Hospital, Zhuzhou
+580	29.341100	104.769200	Chunhua Road, Zigong
+581	29.362800	104.754700	Datang Hill, Zigong
+582	29.356400	104.774700	Tanmulin Street, Zigong
+583	29.358600	104.721400	Yanma Road, Zigong
+584	27.686944	106.922222	Dingzikou, Zunyi
+585	27.701944	106.924167	Fenghuang shan, Zunyi
+586	27.720000	106.917778	Gantianba, Zunyi
+587	27.648611	106.890556	Zhongzhuang, Zunyi
+588	27.687778	106.923056	Zhoushui  Bridge, Zunyi
+589	29.563010	106.551557	Chongqing
+590	38.914003	121.614682	Dalian
+591	40.000500	124.354707	Dandong
+592	19.521134	109.580811	Danzhou
+593	46.589310	125.103784	Daqing
+594	40.078414	113.304405	Datong
+595	31.126856	104.398021	Deyang
+596	37.434093	116.357465	Dezhou
+597	38.516168	114.990251	Dingzhou
+598	19.095361	108.651775	Dongfang
+599	23.053600	113.781900	Dongguan
+600	37.434751	118.674767	Dongying
+601	39.608266	109.781327	Eerduosi
+602	30.272156	109.488172	Enshi
+603	30.391940	114.894843	Ezhou
+604	23.001900	113.104700	Foshan
+605	41.880872	123.957208	Fushun
+606	42.021619	121.670324	Fuxin
+607	30.048735	119.960109	Fuyang
+608	26.074508	119.296494	Fuzhou
+609	23.653100	116.617500	Municipal Corporation, Chaozhou
+610	23.671389	116.633889	Xiyuan Road, Chaozhou
+611	23.012800	113.794400	Dongcheng Shijing, Dongguan
+612	23.060000	113.748056	Guancheng No.2 water plant, Dongguan
+613	22.965800	113.738300	Nancheng Xiping, Dongguan
+614	23.027778	113.746111	Nancheng Yuanling, Dongguan
+615	23.053600	113.781900	Experimental Middle  School, Dongguan
+616	22.882200	112.836600	Gaoming kongtang, Foshan
+617	23.042200	113.100000	Huicai technical school, Foshan
+618	23.049400	113.140300	Nanhai Bureau of Meteorology, Foshan
+619	23.166400	112.885800	Sanshui Monitoring Station, Foshan
+620	23.188600	112.860300	Sanshuiyun donghai, Foshan
+621	23.004760	113.134080	Wan liang, Foshan
+622	22.947700	113.351600	Panyu city bridge, Guangzhou
+623	23.133100	113.259700	Gongyuan qian, Guangzhou
+624	23.105000	113.261200	Hai zhubao gang, Guangzhou
+625	23.091600	113.347900	Haizhu chisha, Guangzhou
+626	23.391700	113.214700	Huadu town, Guangzhou
+627	23.105000	113.433200	Huangbu dashadi, Guangzhou
+628	23.142200	113.234700	Liwan xicun, Guangzhou
+629	23.154400	113.276500	LuHu, Guangzhou
+630	23.310800	113.561900	Luogang Zhenlong, Guangzhou
+631	23.106400	113.332800	Modiesha station, Guangzhou
+632	23.131900	113.322000	Tianhe cheng, Guangzhou
+633	23.650200	113.624600	Tianhu, Guangzhou
+634	23.141191	113.258374	Guangzhou US Consulate
+635	22.710800	113.548500	wanqing sha, Guangzhou
+636	23.420833	113.073056	Zhudong, Guangzhou
+637	23.723330	114.689200	Heyuan high school, Heyuan
+638	23.758610	114.694400	No.3 elementary school, Heyuan
+639	23.756940	114.677800	City water company, Heyuan
+640	22.742200	114.531600	Daya bay management committee, Huizhou
+641	23.053056	114.418333	Henan'an, Huizhou
+642	22.783300	114.459700	Huiyang chuanhu, Huizhou
+643	23.114200	114.410300	Jiangbei, Huizhou
+644	22.939800	114.380600	Jinguo Bay, Huizhou
+645	23.082222	114.405278	Xiabu, Huizhou
+646	23.340600	114.107700	Xijiao, Huizhou
+647	22.606900	113.103600	Beijie, Jiangmen
+648	22.593100	113.081900	Donghu, Jiangmen
+649	22.060800	112.760700	Duanfen, Jiangmen
+650	22.532500	113.024400	Guifengxi, Jiangmen
+651	22.586277	112.581444	Shuangqiao, Jiangmen
+652	22.727900	112.929000	Taoyuan Atmosphere Premier Station, Jiangmen
+653	22.581100	113.073900	Xiqu, Jiangmen
+654	23.535278	116.369722	Donghu Park, Jieyang
+655	23.573889	116.359444	Experimental Primary School, Jieyang
+656	23.529200	116.409400	Yuhu Middle School, Jieyang
+657	21.693333	110.866667	Gaoling, Maoming
+658	21.665000	110.905000	Jiankang road, Maoming
+659	21.651667	110.933333	Petrochemical No. 7 elementaty school, Maoming
+660	21.468900	111.028600	Maogang sub-office EPB, Maoming
+661	24.265400	116.124800	Environmental Monitoring Center, Meizhou
+662	24.328056	116.123333	Jiaying University, Meizhou
+663	24.271900	116.079700	Mexian new town, Meizhou
+664	23.710556	113.020833	Town governement, Qingyuan
+665	23.627222	113.062222	Fupin district, Qingyuan
+666	23.253639	116.402056	Chaonanzi Station, Shantou
+667	23.250000	116.603333	Chaoyangzi, Shantou
+668	23.471389	116.751944	Chenghaizi, Shantou
+669	23.277500	116.725833	Haojiangzi, Shantou
+670	23.366667	116.679444	Jinpingzi, Shantou
+671	23.363889	116.724444	Longhuzi, Shantou
+672	22.775000	115.365278	City EPA, Shanwei
+673	22.786667	115.362778	City government, Shanwei
+674	22.792500	115.362222	Xincheng Middle School, Shanwei
+675	24.810833	113.539722	Bihu shanzhuang, Shaoguan
+676	24.686111	113.596389	Qujiang Monitoring Station, Shaoguan
+677	24.793889	113.641388	Shaoguan University, Shaoguan
+678	24.770833	113.578333	No.8 middle school, Shaoguan
+679	24.799166	113.606944	Forest area, Shaoguan
+680	22.765556	113.253056	Ronggui street committee, Shunde
+681	22.809444	113.287778	Shunde sugang, Shunde
+682	21.853611	111.950833	Nan'en road, Yangjiang
+683	21.858611	111.978611	Yuanyang Lake, Yangjiang
+684	22.953889	112.053888	Muyang police sub-station, Yunfu
+685	22.939444	112.036944	City Environmental Monitoring Station, Yunfu
+686	22.916944	112.039167	The new city government headquarters, Yunfu
+687	21.199722	110.401944	EPB Dormitory, Zhanjiang
+688	21.267917	110.331556	Mazhang EPA, Zhanjiang
+689	21.250000	110.450000	Potou District EPB, Zhanjiang
+690	21.222778	110.392778	City Environmental Monitoring Station, Zhanjiang
+691	21.202778	110.411111	Xiashan Swimming Park, Zhanjiang
+692	21.270555	110.361944	Zhanjiang Theatre, Zhanjiang
+693	23.052800	112.470800	Chengzhongzi station, Zhaoqing
+694	23.161700	112.565300	Kengkouzi station, Zhaoqing
+695	23.070500	112.426600	Mugangzi station, Zhaoqing
+696	23.078600	112.472200	Qixingyanzi station, Zhaoqing
+697	22.488600	113.433600	Yangtze River tourist area, Zhongshan
+698	22.521100	113.368900	Huabai Park, Zhongshan
+699	22.548100	113.365000	Zhangxi, Zhongshan
+700	22.507800	113.401700	Zimaling, Zhongshan
+701	22.228056	113.298889	Doumen, Zhuhai
+702	22.261111	113.573611	Jida, Zhuhai
+703	22.229444	113.494600	Qianshan, Zhuhai
+704	22.425000	113.628333	Tang jia, Zhuhai
+705	23.141191	113.258374	Guangzhou
+706	25.273566	110.290195	Guilin
+707	26.647661	106.630154	Guiyang
+708	45.803775	126.534967	Haerbin
+709	20.030793	110.328859	Haikou
+710	36.625604	114.539085	Handan
+711	30.274085	120.155070	Hangzhou
+712	38.942000	115.942000	An xinmin zhengju, Baoding
+713	38.842000	115.461000	Surface water Company, Baoding
+714	39.332000	115.880000	Gaobeidian EPA, Baoding
+715	38.896000	115.522000	Huadian II, Baoding
+716	38.876000	115.442000	Film Factory, Baoding
+717	38.911000	115.471000	Reception Center, Baoding
+718	38.955000	115.329000	Man cheng shuiwu ju, Baoding
+719	38.771000	115.496000	Qingyuan City Hall, Baoding
+720	38.871000	115.521000	City Monitoring Station, Baoding
+721	39.025000	115.662000	Xushui EPA, Baoding
+722	38.863000	115.493000	Natatorium, Baoding
+723	39.492000	116.034000	Zhouzhou Monitoring Stations, Baoding
+724	38.089000	116.585000	Poyoushi City Hall, Cangzhou
+725	38.299000	116.885000	Cangxian Urban Construction Bureau, Cangzhou
+726	38.323000	116.871000	Municipal EPB, Cangzhou
+727	38.325000	116.858000	TV Broadcast Station, Cangzhou
+728	38.377000	117.337000	Huanghua Finance Bureau Training Center, Cangzhou
+729	38.589000	116.810000	Qing County City Hall, Cangzhou
+730	38.737000	116.119000	Ren qiu hua you ba chu, Cangzhou
+731	40.775000	118.170000	Chengde County EPA, Chengde
+732	41.215000	116.652000	Fengning County City Hall, Chengde
+733	40.936000	117.963000	BDA, Chengde
+734	41.011000	117.938000	Ligong, Chengde
+735	40.949000	117.344000	Luanping EPA, Chengde
+736	40.916000	117.966000	Railway, Chengde
+737	40.973000	117.818000	Cultural Center, Chengde
+738	40.423000	117.507000	Xinglong County City Hall, Chengde
+739	40.984000	117.952000	Bank of China, Chengde
+740	38.522000	114.997000	Ding zhou wuzhuang bu, Dingzhou
+741	36.380000	114.384000	Ci County Vocational Education Center, Handan
+742	36.620000	114.496000	CongTai Park, Handan
+743	36.616000	114.543000	East Sewage Factory, Handan
+744	36.423000	114.240000	Fengfeng mine Inland Revenue Department, Handan
+745	36.578000	114.504000	Mine Hospital, Handan
+746	36.589000	113.686000	Shexian EPA, Handan
+747	36.618000	114.513000	City EPA, Handan
+748	36.686000	114.263000	Wuan BDA, Handan
+749	36.783000	114.497000	Yongnian government guesthouse, Handan
+750	38.238000	115.532000	Anping EPA, Hengshui
+751	37.758000	115.695000	Electrical Machine North Factory, Hengshui
+752	37.739000	115.690000	Hengshui City EPB, Hengshui
+753	37.738000	115.643000	Environmental Monitoring Station, Hengshui
+754	37.548000	115.581000	Jizhou EPA, Hengshui
+755	39.132000	116.398000	Ba zhou shun da ranqi, Langfang
+756	39.534000	116.737000	North China Institute of Aerospace, Langfang
+757	39.890000	116.998000	Da chang weisheng ju, Langfang
+758	39.445000	116.305000	Guan Party School, Langfang
+759	39.557000	116.715000	Environmental Monitoring Supervision Center, Langfang
+760	39.575000	116.773000	BDA, Langfang
+761	39.988000	117.085000	Three Rivers Department of Transportation, Langfang
+762	38.880000	116.464000	Wenan County EPA, Langfang
+763	39.766000	117.009000	Xianghe EPA, Langfang
+764	39.518000	116.684000	TCM Medical Material Company, Langfang
+765	39.828000	119.526000	Beidaihe, Qinhuangdao
+766	39.713000	119.167000	Changli EPA, Qinhuangdao
+767	40.018000	119.762000	Shanhai Pass, Qinhuangdao
+768	39.882000	119.251000	Fu ning dangxiao, Qinhuangdao
+769	39.942000	119.537000	Contruction Plazz, Qinhuangdao
+770	40.418000	118.952000	Qinglong EPA, Qinhuangdao
+771	39.957000	119.602000	City Monitoring Station, Qinhuangdao
+772	39.936000	119.607000	City government, Qinhuangdao
+773	37.910000	114.354000	Fenglong Montain, Shijiazhuang
+774	38.039000	114.862000	Gaocheng Experimental School, Shijiazhuang
+775	38.040000	114.605000	High-tech zone, Shijiazhuang
+776	37.623000	114.607000	Gaoyi County City Hall, Shijiazhuang
+777	38.055000	114.564000	Chemical College, Shijiazhuang
+778	38.071000	114.069000	Jingxing kuangqu qu wei dalou, Shijiazhuang
+779	38.038000	114.152000	Jingxing Bureau of Meteorology, Shijiazhuang
+780	38.040000	115.079000	Jin zhou bo na de, Shijiazhuang
+781	38.315000	114.367000	Ling shou gongshui, Shijiazhuang
+782	37.906000	114.633000	Luancheng Communications, Shijiazhuang
+783	38.085000	114.347000	Lu quan yi zhong, Shijiazhuang
+784	38.266000	114.204000	Pingshan Ye River, Shijiazhuang
+785	38.052000	114.521000	People's Hall, Shijiazhuang
+786	38.197000	115.213000	Shenze Power Supply Bureau, Shijiazhuang
+787	38.031000	114.542000	Shiji Park, Shijiazhuang
+788	38.178000	114.991000	Wuji EPA, Shijiazhuang
+789	38.140000	114.502000	Northwest Water Company, Shijiazhuang
+790	38.012000	114.467000	Xinan College, Shijiazhuang
+791	38.444000	114.560000	Xing tang xianwei bangong lou, Shijiazhuang
+792	38.349000	114.690000	Xin yue shiwei dong lou, Shijiazhuang
+793	37.766000	114.517000	Yuan shi zhu jian ju, Shijiazhuang
+794	37.672000	114.392000	Zanhuang County City Hall, Shijiazhuang
+795	37.771000	114.770000	Zhaoxian EPA, Shijiazhuang
+796	38.159000	114.593000	Zhengding Unicom, Shijiazhuang
+797	38.051000	114.455000	Worker hospital, Shijiazhuang
+798	39.290000	118.456000	Caofeidian Xinli  Primary School, Tangshan
+799	39.582000	118.091000	Fengnan District City Hall, Tangshan
+800	39.839000	118.169000	Fengrun City Hall, Tangshan
+801	39.631000	118.166000	Supply and marketing cooperatives, Tangshan
+802	39.740000	118.454000	Guye District City Hall, Tangshan
+803	39.674000	118.269000	Kaiping Stations, Tangshan
+804	39.643000	118.144000	Leidazhanzi Station, Tangshan
+805	40.003000	118.711000	Qianan No.1 middle school, Tangshan
+806	40.152000	118.311000	Qianxi EPA, Tangshan
+807	39.658000	118.184000	No. 12 middle school, Tangshan
+808	39.668000	118.219000	Ceramics Company, Tangshan
+809	39.641000	118.185000	Commodities Bureau, Tangshan
+810	39.630000	118.200000	Xiaoshan, Tangshan
+811	39.630000	118.200000	Xiaoshanzi Station, Tangshan
+812	40.205000	117.991000	Zunhua EPA, Tangshan
+813	37.097000	114.482000	Dahuo fontain, Xingtai
+814	37.062000	114.485000	Environment protection office, Xingtai
+815	37.096000	114.533000	Road and Bridge Corporation, Xingtai
+816	37.293000	114.519000	Cultural centers within the mound, Xingtai
+817	36.861000	114.510000	Shahe xuanchuan wenhua zhongxin, Xingtai
+818	37.053000	114.526000	Xingtai Normal College, Xingtai
+819	37.949000	115.224000	Xinji City Hall, Xinji
+820	40.919000	115.838000	Chicheng beishan, Zhangjiakou
+821	40.980000	115.289000	chong li meng te fang dan jiudian, Zhangjiakou
+822	40.680000	114.392000	Huaian EPA, Zhangjiakou
+823	40.421000	115.524000	Huailai Fuqian Primary School, Zhangjiakou
+824	40.837000	114.898000	People's Park, Zhangjiakou
+825	40.769000	114.903000	Century Compound, Zhangjiakou
+826	40.795000	114.892000	Tanji Chang, Zhangjiakou
+827	40.811000	114.881000	Hardware Warehouse, Zhangjiakou
+828	40.508000	115.296000	Xiahuayuan EPA, Zhangjiakou
+829	40.615000	115.106000	Xuanhua qu junying fenghuang cheng, Zhangjiakou
+830	31.821448	117.227271	Hefei
+831	37.738920	115.670177	Hengshui
+832	23.743538	114.700447	Heyuan
+833	35.233750	115.480656	Heze
+834	22.280019	114.185336	Causeway Bay, HongKong
+835	22.279657	114.171987	Central, HongKong
+836	22.284880	114.144075	Central/Western, HongKong
+837	22.282896	114.219337	Eastern, HongKong
+838	22.356859	114.129490	Kwai Chung, HongKong
+839	22.313409	114.224700	Kwun Tong, HongKong
+840	22.322115	114.168733	Mong Kok, HongKong
+841	22.376491	114.184668	Sha Tin, HongKong
+842	22.330030	114.159173	Sham Shui Po, HongKong
+843	22.450977	114.164140	Tai Po, HongKong
+844	22.471249	114.360804	Tap Mun, HongKong
+845	22.371703	114.114440	Tsuen Wan, HongKong
+846	22.390373	113.976280	Tuen Mun, HongKong
+847	22.288916	113.943539	Tung Chung, HongKong
+848	22.445058	114.022552	Yuen Long, HongKong
+849	33.610360	119.015288	Huai'an
+850	30.453906	114.872316	Huanggang
+851	30.199652	115.038520	Huangshi
+852	30.272156	109.488172	Enshi, Hubei
+853	30.413333	114.813056	Fankou BDA, Ezhou, Hubei
+854	30.394528	114.887778	City government, Ezhou, Hubei
+855	30.391940	114.894843	Ezhou, Hubei
+856	30.371667	114.898611	Zhaojiaba, Ezhou, Hubei
+857	30.448889	114.895278	Dazhou Island, Huanggang, Hubei
+858	30.453906	114.872316	Huanggang, Hubei
+859	30.471922	114.907456	Workers Center, Huanggang, Hubei
+860	30.202778	115.076667	Chenjiawan, Huangshi, Hubei
+861	30.209944	115.026389	BDA, Huangshi, Hubei
+862	30.235194	115.062472	Chenjiaying, Huangshi, Hubei
+863	30.206603	114.901414	Tie montian, Huangshi, Hubei
+864	30.199652	115.038520	Huangshi, Hubei
+865	30.175989	114.949269	Xinxialu, Huangshi, Hubei
+866	31.035423	112.199265	Jingmen, Hubei
+867	30.335165	112.239741	Jingzhou, Hubei
+868	30.402110	112.900079	Qianjiang, Hubei
+869	32.649444	110.780000	Riverside Village, Shiyan, Hubei
+870	32.638889	110.725833	Liujiagou, Shiyan, Hubei
+871	32.571389	110.883889	tie er chu, Shiyan, Hubei
+872	32.629397	110.797991	Shiyan, Hubei
+873	32.395000	111.041944	Wudang Mountain, Shiyan, Hubei
+874	32.835175	110.811486	Yunyang County District automatic air station, Shiyan, Hubei
+875	31.690216	113.382458	Suizhou, Hubei
+876	30.663372	113.166530	Tianmen, Hubei
+877	32.019722	112.155000	Xiangcheng Yundong Street, Xiangfan, Hubei
+878	32.008986	112.122415	Xiangyang, Hubei
+879	29.885558	114.323678	Yangtze River Industrial Park, Xianning, Hubei
+880	29.817817	114.323283	Qianshan Park, Xianning, Hubei
+881	29.821111	114.323056	Municipal Development and Reform Commission, Xianning, Hubei
+882	29.841443	114.322492	Xianning, Hubei
+883	29.513611	114.176389	Xianan District Governement, Xianning, Hubei
+884	30.362641	113.454593	Xiantao, Hubei
+885	30.920419	113.938408	Dongcheng District, Huludao, Xiaogan, Hubei
+886	30.924568	113.916903	Xiaogan, Hubei
+887	30.928333	113.915556	wenhua street, Shenyang, Xiaogan, Hubei
+888	30.691967	111.286471	Yichang, Hubei
+889	40.842299	111.749138	Huhehaote
+890	23.082222	114.405278	Huizhou
+891	40.711052	120.836932	Huludao
+892	30.894348	120.086823	Huzhou
+893	24.340334	124.187210	Maezato, Ishigaki, Okinawa Prefecture, Japan
+894	24.803538	125.287967	Hirara, Miyakojima, Okinawa Prefecture, Japan
+895	22.606900	113.103600	Jiangmen
+896	31.910800	119.905000	Anjia, Changzhou
+897	31.808900	119.962000	Changzhou Engineering Institute, Changzhou
+898	31.778600	119.933000	Chengjian School, Changzhou
+899	31.763800	120.039300	Lucheng, Changzhou
+900	31.779235	119.974677	City Monitoring Station, Changzhou
+901	31.703900	119.935000	Wujin Monitoring Station, Changzhou
+902	33.575000	119.007000	Beijing South, Huai'an
+903	33.598100	119.036000	Bochi montain, Huai'an
+904	33.503900	119.135000	Chuzhou Monitoring Station, Huai'an
+905	33.627000	119.012200	Huaiyin Monitoring Station, Huai'an
+906	33.607195	118.999337	City Monitoring Station, Huai'an
+907	34.589600	119.141000	Hongmen police substation, Lianyungang
+908	34.698400	119.348000	Hengrui pharmaceutical company, BDA, Lianyungang
+909	34.587772	119.181323	City Monitoring Station, Lianyungang
+910	34.750700	119.368000	Xugou Nuclear Expert Village, Lianyungang
+911	32.009200	118.737000	Olympic Center, Nanjing
+912	32.055618	118.754821	Caochang men, Nanjing
+913	32.108300	118.803000	Mai gao qiao, Nanjing
+914	32.087800	118.626000	Pukou, Nanjing
+915	32.031400	118.803000	Ruijin Road, Nanjing
+916	32.070000	118.774000	Shanxi Road, Nanjing
+917	32.109185	118.914849	Xianlin University Town, Nanjing
+918	32.077500	118.795000	Xuanwu Lake, Nanjing
+919	32.002639	118.775672	Zhonghua men, Nanjing
+920	32.020000	120.870000	Chengzhong, Nantong
+921	32.004195	120.858260	Hongqiao, Nantong
+922	31.960000	120.913000	South suburb, Nantong
+923	31.930000	120.940000	Xinghu park, Nantong
+924	32.041700	120.810000	Zilang school, Nantong
+925	33.958334	118.271519	City Monitoring Station, Suqian
+926	33.952800	118.293000	Suqian College, Suqian
+927	33.959200	118.244000	Suqian Middle School, Suqian
+928	33.950600	118.321000	Suyu District Environmental Protection Agency, Suqian
+929	31.298362	120.595489	Caixiang, Suzhou
+930	31.285397	120.634642	Nanmen, Suzhou
+931	31.247200	120.561000	Shangfang hill, Suzhou
+932	31.309700	120.669000	Suzhou Industrial Area, Suzhou
+933	31.299400	120.543000	Suzhou New District, Suzhou
+934	31.270300	120.613000	Wuzhong District, Suzhou
+935	31.370800	120.641000	Xiangcheng district, Suzhou
+936	31.336065	120.617410	Zhagang chang, Suzhou
+937	32.303000	119.882000	Gaogang Adminstrative office, Taizhoushi
+938	32.486700	119.900000	Gongyuan lu, Taizhoushi
+939	32.467505	119.925565	Lianhua, Taizhoushi
+940	32.463900	119.888000	Students Innovation Park, Taizhoushi
+941	31.486700	120.269000	University Town, Wuxi
+942	31.584800	120.354000	Dongting, Wuxi
+943	31.503100	120.242000	Qitang, Wuxi
+944	31.621900	120.275000	Shibei High School, Wuxi
+945	31.540237	120.360119	Wangzhuang, Wuxi
+946	31.684200	120.288000	Yanqiao, Wuxi
+947	31.563100	120.245000	Yuhong Elementary School, Wuxi
+948	34.241700	117.192000	Huaita, Xuzhou
+949	34.272735	117.171443	Yellow river new village, Xuzhou
+950	34.277800	117.293300	Agricultural Science Academy, Xuzhou
+951	34.291100	117.244000	Taoyuan road, Xuzhou
+952	34.180600	117.166000	Tongshan EPA, Xuzhou
+953	34.308300	117.192000	Tongshan Veterinary Hospital, Xuzhou
+954	34.215300	117.256000	New Town, Xuzhou
+955	33.394700	120.225000	BDA Management Committe, Yancheng
+956	33.392028	120.159463	City Monitoring Station, Yancheng
+957	33.371900	120.129000	Wenfeng Middle School, Yancheng
+958	33.402200	120.118000	Yancheng power station, Yancheng
+959	32.387800	119.460000	Cheng dong caizheng suo, Yangzhou
+960	32.403300	119.439000	No. 4 Hospital, Yangzhou
+961	32.376100	119.389000	Hanjiang Monitoring Station, Yangzhou
+962	32.408466	119.410426	City Monitoring Station, Yangzhou
+963	32.131900	119.430000	Dantu Monitoring Station, Zhenjiang
+964	32.204070	119.434335	City Monitoring Station, Zhenjiang
+965	32.188300	119.680000	New District Administrative office, Zhenjiang
+966	32.215000	119.491000	Vocational Education Center, Zhenjiang
+967	35.215893	113.241823	Jiaozuo
+968	30.753924	120.758543	Jiaxing
+969	39.773130	98.289152	Jiayuguan
+970	23.549993	116.372831	Jieyang
+971	43.837883	126.549572	Jilin
+972	38.520089	102.188043	Jinchang
+973	35.490702	112.851831	Jincheng
+974	31.035423	112.199265	Jingmen
+975	27.980866	119.630237	Jingningxian
+976	30.335165	112.239741	Jingzhou
+977	29.079059	119.647445	Jinhua
+978	35.414921	116.587099	Jining
+979	37.687024	112.752695	Jinzhong
+980	41.095120	121.127004	Jinzhou
+981	34.797239	114.307582	Kaifeng
+982	36.634133	127.447478	Bokdae-dong, Chungbuk, South Korea
+983	36.731067	127.804633	Cheongcheon-myeon, Chungbuk, South Korea
+984	36.636383	127.492100	Munhwa-dong(Cheongju), Cheongju-si, Chungbuk, South Korea
+985	36.659633	127.485550	Naedeok-dong, Cheongju-si, Chungbuk, South Korea
+986	36.644883	127.436833	Songjeong-dong, Cheongju-si, Chungbuk, South Korea
+987	36.608817	127.501467	Yongam-dong, Cheongju-si, Chungbuk, South Korea
+988	36.709057	127.421992	Cheongwon-gun, Chungbuk, South Korea
+989	36.982089	127.918963	Chilgeum-dong, Chungju-si, Chungbuk, South Korea
+990	36.964570	127.926160	Hoam-dong, Chungju-si, Chungbuk, South Korea
+991	37.033400	128.295700	Maepo-eup, Dannyang-gun, Chungbuk, South Korea
+992	37.139000	128.205117	Seobu-dong, Jecheon-si, Chungbuk, South Korea
+993	36.782917	127.014500	Mojong-dong, Asan-si, Chungnam, South Korea
+994	36.825139	127.110639	Baekseong-dong, Cheonan-si, Chungnam, South Korea
+995	36.814250	127.152056	Seonghwang-dong, Cheonan-si, Chungnam, South Korea
+996	36.941944	126.723417	Jeonggokri, Dangjin-gun, Chungnam, South Korea
+997	37.021306	126.462389	Nanjido-ri, Dangjin-gun, Chungnam, South Korea
+998	36.736417	126.132183	Pado-ri, Chungnam, South Korea
+999	36.526050	127.031183	Sagok-myeon, Chungnam, South Korea
+1000	36.839225	127.137578	Seongseong-dong, Chungnam, South Korea
+1001	36.779889	126.456083	Dongmun-dong, Seosan-si, Chungnam, South Korea
+1002	36.991722	126.368278	Dokgot-ri, Seosan-si, Chungnam, South Korea
+1003	35.891111	128.565000	Nowon-dong, Buk-gu, Daegu, South Korea
+1004	35.920278	128.552222	Taejeon-dong, Buk-gu, Daegu, South Korea
+1005	35.697500	128.445833	Hyeonpung-myeon, Dalseong-gun, Daegu, South Korea
+1006	35.887681	128.633376	Sinam-dong, Dong-gu, Daegu, South Korea
+1007	35.868333	128.697222	Yulha-dong, Dong-gu, Daegu, South Korea
+1008	35.870833	128.586111	Suchang-dong, Jung-gu, Daegu, South Korea
+1009	35.842500	128.573333	Daemyeong-dong, Nam-gu, Daegu, South Korea
+1010	35.865728	128.591583	Namsan-dong, Daegu, South Korea
+1011	35.879350	128.562478	Pyeongri-dong, Daegu, South Korea
+1012	35.866389	128.546944	Ihyeon-dong, Seo-gu, Daegu, South Korea
+1013	35.861944	128.642222	Manchon-dong, Suseong-gu, Daegu, South Korea
+1014	35.830367	128.631653	Jisan-dong, Suseong-gu, Daegu, South Korea
+1015	36.446944	127.404722	Munpyeong-dong, Daedeok-gu, Daejeon, South Korea
+1016	36.372778	127.417222	Eumnae-dong, Daedeok-gu, Daejeon, South Korea
+1017	36.323889	127.418333	Daeheungdong1, Daejeon, South Korea
+1018	36.344444	127.437222	Seongnam-dong, Dong-gu, Daejeon, South Korea
+1019	36.316111	127.437778	Munchang-dong, Jung-gu, Daejeon, South Korea
+1020	36.354444	127.383056	Dunsan-dong, Seo-gu, Daejeon, South Korea
+1021	36.304667	127.366717	Jeongnim-dong, Seo-gu, Daejeon, South Korea
+1022	36.351111	127.354167	Wolpyeong-dong, Daejeon, South Korea
+1023	36.368200	127.318500	Noeun-dong, Yuseong-gu, Daejeon, South Korea
+1024	36.372483	127.373850	Guseong-dong, Yuseong-gu, Daejeon, South Korea
+1025	38.224433	127.958583	Bangsan-myeon, Gangwon, South Korea
+1026	37.430050	128.664717	Bukpyeong-myeon, Gangwon, South Korea
+1027	37.360494	128.125550	Chiaksan, Gangwon, South Korea
+1028	37.857430	127.750250	Seoksa-dong, Chuncheon-si, Gangwon, South Korea
+1029	37.875450	127.720267	Jungang-way, Chuncheon-si, Gangwon, South Korea
+1030	37.524817	129.114233	Cheongok-dong, Donghae-si, Gangwon, South Korea
+1031	37.760000	128.903056	Okcheon-dong, Gangneung-si, Gangwon, South Korea
+1032	38.288050	128.385650	Ganseong-eup, Gangwon, South Korea
+1033	37.442667	129.168400	Namyang-dong1, Samcheok-si, Gangwon, South Korea
+1034	37.352817	127.947583	Jungang-dong, Wonju-si, Gangwon, South Korea
+1035	37.336883	127.947950	Myeongnyun-dong, Wonju-si, Gangwon, South Korea
+1036	35.230250	126.862300	Konkuk-dong, Buk-gu, Gwangju, South Korea
+1037	35.174300	126.932500	Duam-dong, Buk-gu, Gwangju, South Korea
+1038	35.151625	126.853292	Chipyeong-dong, Gwangju, South Korea
+1039	35.145830	126.923330	Seoseok-dong, Dong-gu, Gwangju, South Korea
+1040	35.204130	126.807200	Oseon-dong, Gwangsan-gu, Gwangju, South Korea
+1041	35.140733	126.798833	Songjeong, Gwangsan-gu, Gwangju, South Korea
+1042	35.131917	126.893300	Juwol-dong, Nam-gu, Gwangju, South Korea
+1043	35.156651	126.889699	Nongseong-dong, Seo-gu, Gwangju, South Korea
+1044	35.176106	126.856931	Unam-dong, Gwangju, South Korea
+1045	36.564350	128.728533	Nammun-dong, Andong-si, Gyeongbuk, South Korea
+1046	36.369200	128.456533	Angye-myeon, Gyeongbuk, South Korea
+1047	36.140317	128.113700	Sineum-dong, Gimcheon-si, Gyeongbuk, South Korea
+1048	36.105233	128.384050	Gongdan-dong, Gumi-si, Gyeongbuk, South Korea
+1049	36.113417	128.336333	Hyeonggok-dong, Gumi-si, Gyeongbuk, South Korea
+1050	36.141100	128.439400	Industrial, Gumi-si, Gyeongbuk, South Korea
+1051	36.131650	128.327700	Wonpyeong-dong, Gumi-si, Gyeongbuk, South Korea
+1052	35.825000	128.743321	Jungbang-dong, Gyeongsan-si, Gyeongbuk, South Korea
+1053	36.112900	128.928200	Hwabuk-myeon, Gyeongbuk, South Korea
+1054	36.447433	129.287700	Jipum-myeon, Gyeongbuk, South Korea
+1055	37.518267	130.797917	Taeha-dong, Gyeongbuk, South Korea
+1056	37.518267	130.797917	Taeha-ri, Gyeongbuk, South Korea
+1057	36.809833	128.621667	Hyucheon, Yeongju-si, Gyeongbuk, South Korea
+1058	37.296283	126.888817	Bono, Ansan-si, Gyeonggi, South Korea
+1059	37.332000	126.861333	Bugok-dong, Ansan-si, Gyeonggi, South Korea
+1060	37.243683	126.585500	Daebu-dong, Ansan-si, Gyeonggi, South Korea
+1061	37.322050	126.830400	Gojan-dong, Ansan-si, Gyeonggi, South Korea
+1062	37.305083	126.833233	Hosu-dong, Ansan-si, Gyeonggi, South Korea
+1063	37.331550	126.801883	Wongok, Ansan-si, Gyeonggi, South Korea
+1064	37.305350	126.788467	Wonsi-dong, Ansan-si, Gyeonggi, South Korea
+1065	37.006602	127.279024	Bongsan-dong, Ansung-si, Gyeonggi, South Korea
+1066	37.390067	126.930667	Anyang-6dong, Anyang-si, Gyeonggi, South Korea
+1067	37.394100	126.958000	Burim-dong, Anyang-si, Gyeonggi, South Korea
+1068	37.381300	126.952550	Hogye-dong, Anyang-si, Gyeonggi, South Korea
+1069	37.405100	126.917633	Anyang, Anyang-si, Gyeonggi, South Korea
+1070	37.381600	127.102200	Baekhyeon-dong, Gyeonggi, South Korea
+1071	37.519867	126.773717	Nae-dong, Bucheon-si, Gyeonggi, South Korea
+1072	37.492000	126.753300	Sang, Bucheon-si, Gyeonggi, South Korea
+1073	37.490117	126.785767	Simgok-dong, Bucheon-si, Gyeonggi, South Korea
+1074	37.526617	126.806500	Wonjong-dong, Bucheon-si, Gyeonggi, South Korea
+1075	37.917600	127.061290	Bosan-dong, Dongducheon-si, Gyeonggi, South Korea
+1076	37.278133	127.031325	Dongsuwon, Gyeonggi, South Korea
+1077	37.831400	127.509600	Gapyeong-eup, Gapyeong-gun, Gyeonggi, South Korea
+1078	37.619278	126.716639	Sau-dong, Gimpo-si, Gyeonggi, South Korea
+1079	37.691833	126.597139	Tongjin-eup, Gimpo-si, Gyeonggi, South Korea
+1080	37.607472	126.763194	Gochon-myeon, Gimpo-si, Gyeonggi, South Korea
+1081	37.624972	126.842417	Haengsin-dong, Goyang-si, Gyeonggi, South Korea
+1082	37.685570	126.813430	Siksa-dong, Goyang-si, Gyeonggi, South Korea
+1083	37.532500	127.113744	Gugal-dong, Gyeonggi, South Korea
+1084	37.353683	126.945200	Dang-dong, Gunpo-si, Gyeonggi, South Korea
+1085	37.344533	126.936017	Sanbon-dong, Gunpo-si, Gyeonggi, South Korea
+1086	37.618450	127.138321	Donggu-dong, Guri-si, Gyeonggi, South Korea
+1087	37.595361	127.136472	Gyomun-dong, Guri-si, Gyeonggi, South Korea
+1088	37.423917	126.994250	Byeoryang-dong, Gwacheon-si, Gyeonggi, South Korea
+1089	37.449083	127.003533	Gwacheon-dong, Gwacheon-si, Gyeonggi, South Korea
+1090	37.411083	127.257889	Gyeongan-dong, Gwangju-si, Gyeonggi, South Korea
+1091	37.476250	126.869783	Cheolsan-dong, Gwangmyeong-si, Gyeonggi, South Korea
+1092	37.452242	126.884899	Sohadong, Gwangmyeong-si, Gyeonggi, South Korea
+1093	38.123833	127.252350	Gwanin-myeon, Gyeonggi, South Korea
+1094	37.505472	126.758361	Gyenamgongwon, Gyeonggi, South Korea
+1095	37.539333	127.214056	Sinjang-dong, Hanam-si, Gyeonggi, South Korea
+1096	37.196921	127.072300	Dongtan-dong, Hwaseong-si, Gyeonggi, South Korea
+1097	37.211917	126.823528	Namyang-dong, Hwaseong-si, Gyeonggi, South Korea
+1098	37.132444	126.920500	Hyangnam, Hwaseong-si, Gyeonggi, South Korea
+1099	37.280667	127.451483	Changjeon-dong, Icheon-si, Gyeonggi, South Korea
+1100	37.316656	126.828117	Jungangro1, Gyeonggi, South Korea
+1101	37.651989	126.777889	Maduyeok, Gyeonggi, South Korea
+1102	37.433150	127.129097	Moranyeok, Gyeonggi, South Korea
+1103	37.635750	127.216083	Geumgok-dong, Namnyangju-si, Gyeonggi, South Korea
+1104	37.158778	127.077528	Osan-dong, Osan-si, Gyeonggi, South Korea
+1105	37.756361	126.773861	Geumchon-dong, Paju-si, Gyeonggi, South Korea
+1106	37.853400	127.159100	Seondan-dong, Pocheon-si, Gyeonggi, South Korea
+1107	36.985703	126.931939	Anjung, Pyeongtaek-si, Gyeonggi, South Korea
+1108	36.974605	126.845540	Pyeongtaekhang, Pyeongtaek-si, Gyeonggi, South Korea
+1109	36.992306	127.112528	Bijeon-dong, Pyeongtaek-si, Gyeonggi, South Korea
+1110	37.138467	127.546450	Seolseong-myeon, Gyeonggi, South Korea
+1111	37.457194	127.131167	Bokjeong-dong, Seongnam-si, Gyeonggi, South Korea
+1112	37.449444	127.155361	Dandae-dong, Seongnam-si, Gyeonggi, South Korea
+1113	37.361417	127.444917	Jeongja, Seongnam-si, Gyeonggi, South Korea
+1114	37.395170	127.174030	Sangdaewon-dong, Seongnam-si, Gyeonggi, South Korea
+1115	37.432861	127.164500	sangdaewon1-dong, Seongnam-si, Gyeonggi, South Korea
+1116	37.382556	127.118972	Sunae-dong, Seongnam-si, Gyeonggi, South Korea
+1117	37.443100	126.788417	Daeya-dong, Siheung-si, Gyeonggi, South Korea
+1118	37.346267	126.740133	Jeongwang-dong, Siheung-si, Gyeonggi, South Korea
+1119	37.336667	126.724817	Sihwa, Siheung-si, Gyeonggi, South Korea
+1120	37.295400	126.977450	Cheoncheon-dong, Suwon-si, Gyeonggi, South Korea
+1121	37.252567	126.976600	Gosaek-dong, Suwon-si, Gyeonggi, South Korea
+1122	37.283550	126.976600	Sinpung-dong, Suwon-si, Gyeonggi, South Korea
+1123	37.263417	127.029167	Ingye-dong, Suwon-si, Gyeonggi, South Korea
+1124	37.285500	127.029500	Uman-dong, Suwon-si, Gyeonggi, South Korea
+1125	37.246983	127.056433	Yeongtong-dong, Suwon-si, Gyeonggi, South Korea
+1126	37.735583	127.040806	Uijeongbu, Uijeongbu-si, Gyeonggi, South Korea
+1127	37.746333	127.047694	Uijeongbu, Uijeongbu-si, Gyeonggi, South Korea
+1128	37.319400	126.950350	Bugok, Uiwang-si, Gyeonggi, South Korea
+1129	37.347833	126.976000	Gocheon-dong, Uiwang-si, Gyeonggi, South Korea
+1130	37.824667	126.983528	Gwangjeok-myeon, Yangju-si, Gyeonggi, South Korea
+1131	37.698672	127.204729	Onam-eup, Yangju-si, Gyeonggi, South Korea
+1132	37.487210	127.596190	Yangpyeong-gunchung, Yangpyeong-gun, Gyeonggi, South Korea
+1133	37.299200	127.626800	Yeoju-eup, Yeoju-gun, Gyeonggi, South Korea
+1134	38.096400	127.070500	Yeoncheon-eup, Yeoncheon-gun, Gyeonggi, South Korea
+1135	37.280483	127.115067	Giheung, Yongin-si, Gyeonggi, South Korea
+1136	37.327950	127.094967	Suji, Yongin-si, Gyeonggi, South Korea
+1137	37.233983	127.202083	Gimnyangjang-dong, Yongin-si, Gyeonggi, South Korea
+1138	35.217500	128.602500	Bongam-dong, Changwon-si, Gyeongnam, South Korea
+1139	35.218150	128.574250	Hoewon-dong, Changwon-si, Gyeongnam, South Korea
+1140	35.243417	128.641750	Myeongseo-dong, Changwon-si, Gyeongnam, South Korea
+1141	35.371633	128.676483	Daesan-myeon, Gyeongnam, South Korea
+1142	35.066944	127.751389	Hadongeup, Hadong-gun, Gyeongnam, South Korea
+1143	35.198267	128.078050	Sangbong-dong, Jinju-si, Gyeongnam, South Korea
+1144	35.210200	128.124100	Sangdae-dong, Jinju-si, Gyeongnam, South Korea
+1145	35.193333	128.084167	Daean-dong, Jinju-si, Gyeongnam, South Korea
+1146	35.643167	127.910500	Namsang-myeon, Gyeongnam, South Korea
+1147	37.938413	124.645669	Baekryeongdo, Incheon, South Korea
+1148	37.500000	126.724167	Bupyeong, Bupyeong-gu, Incheon, South Korea
+1149	37.482874	126.704943	Bupyeongyeok, Incheon, South Korea
+1150	37.233317	126.315933	Deokjeokdo, Incheon, South Korea
+1151	37.473818	126.643199	Songlim-dong, Dong-gu, Incheon, South Korea
+1152	37.764444	126.463333	Songhae, Ganghwa-gun, Incheon, South Korea
+1153	37.546111	126.730278	Gyesan, Gyeyang-gu, Incheon, South Korea
+1154	37.468333	126.635000	Sinheung-dong, Jung-gu, Incheon, South Korea
+1155	37.496590	126.487769	Unseo, Jung-gu, Incheon, South Korea
+1156	37.463889	126.650000	Sungui, Nam-gu, Incheon, South Korea
+1157	37.449722	126.724167	Guwol, Namdong-gu, Incheon, South Korea
+1158	37.404167	126.726111	Nonhyeon, Namdong-gu, Incheon, South Korea
+1159	37.404839	126.697158	Gojan, Namdong-gu, Incheon, South Korea
+1160	37.502778	126.674722	Seongnam, Seo-gu, Incheon, South Korea
+1161	37.602222	126.661389	Geomdan, Seo-gu, Incheon, South Korea
+1162	37.594100	126.698600	Wondang, Seo-gu, Incheon, South Korea
+1163	37.545556	126.675833	Yeonhui, Seo-gu, Incheon, South Korea
+1164	37.457778	126.690833	Seokbawi, Incheon, South Korea
+1165	37.708050	126.281350	Seokmo-ri, Incheon, South Korea
+1166	37.480664	126.635820	Songhyeon, Incheon, South Korea
+1167	37.409493	126.678309	Dongchun, Yeonsu-gu, Incheon, South Korea
+1168	33.292278	126.161833	Gosan-ri, Jeju, South Korea
+1169	33.500333	126.532222	Ido-dong, Jeju-si, Jeju, South Korea
+1170	33.489278	126.500194	yeon, Jeju-si, Jeju, South Korea
+1171	33.251306	126.567028	Donghong-dong, Seogwipo-si, Jeju, South Korea
+1172	35.837667	127.132369	Geumam-dong, Jeonbuk, South Korea
+1173	35.437300	126.713000	Gochang-gun, Jeonbuk, South Korea
+1174	35.964433	126.754533	Gaejeong-dong, Gunsan-si, Jeonbuk, South Korea
+1175	35.973333	126.651417	Soryong-dong, Gunsan-si, Jeonbuk, South Korea
+1176	35.972850	126.700733	Sinpung-dong, Gunsan-si, Jeonbuk, South Korea
+1177	35.945317	126.960200	Namjung-dong, Iksan-si, Jeonbuk, South Korea
+1178	35.961633	127.004233	Palbong-dong, Iksan-si, Jeonbuk, South Korea
+1179	35.570267	126.849067	Yeonji-dong, Jeongeup-si, Jeonbuk, South Korea
+1180	35.851533	127.087000	Palbok-dong, Jeonju-si, Jeonbuk, South Korea
+1181	35.807167	127.119433	Taepyeong-dong, Jeonju-si, Jeonbuk, South Korea
+1182	35.823500	127.140600	Samcheon-dong, Jeonju-si, Jeonbuk, South Korea
+1183	35.407650	127.384600	Jukhang-dong, Namwon-si, Jeonbuk, South Korea
+1184	35.610533	127.186217	Unam-myeon, Jeonbuk, South Korea
+1185	34.980867	127.582250	Chilseong-ri, Gwangyang-si, Jeonnam, South Korea
+1186	34.940333	127.698000	Jung-dong, Gwangyang-si, Jeonnam, South Korea
+1187	34.941650	127.755383	Taein-dong, Gwangyang-si, Jeonnam, South Korea
+1188	35.020050	127.719717	Jinsang-myeon, Gwangyang-si, Jeonnam, South Korea
+1189	34.804279	126.434570	Mokpo-si, Jeonnam, South Korea
+1190	34.805983	126.391617	Yongdang-dong, Mokpo-si, Jeonnam, South Korea
+1191	35.177167	127.175167	Songdan-ri, Jeonnam, South Korea
+1192	34.893490	127.572991	Hoduri, Suncheon-si, Jeonnam, South Korea
+1193	34.885489	127.509786	Soonchunman, Suncheon-si, Jeonnam, South Korea
+1194	34.950600	127.487350	Jangcheon-dong, Suncheon-si, Jeonnam, South Korea
+1195	34.947102	127.518575	Yeonhyang-dong, Suncheon-si, Jeonnam, South Korea
+1196	34.766750	126.439350	Nabul-ri, Yeongam-gun, Jeonnam, South Korea
+1197	34.753900	127.746800	Deokchung-dong, Yeosu-si, Jeonnam, South Korea
+1198	34.746958	127.727923	Gwangmu-dong, Yeosu-si, Jeonnam, South Korea
+1199	34.754417	127.702883	Munsu-dong, Yeosu-si, Jeonnam, South Korea
+1200	34.850083	127.731933	Wollae-dong, Yeosu-si, Jeonnam, South Korea
+1201	34.787623	127.653681	Yeocheon-dong, Yeosu-si, Jeonnam, South Korea
+1202	37.568650	126.998083	Cheonggyecheon, Seoul, South Korea
+1203	37.580167	127.044856	Cheongryang-ri, Seoul, South Korea
+1204	37.654278	127.029333	Dobong-gu, Seoul, South Korea
+1205	37.576169	127.029642	Dongdaemun-gu, Seoul, South Korea
+1206	37.565489	127.007775	Dongdaemun, Seoul, South Korea
+1207	37.480989	126.971547	Dongjak-gu, Seoul, South Korea
+1208	37.492107	126.983246	Dongjakdaero Jungangcharo, Seoul, South Korea
+1209	37.610583	126.933144	Bulgwang-dong, Eunpyeong-gu, Seoul, South Korea
+1210	37.637903	127.029119	Gangbuk-gu, Seoul, South Korea
+1211	37.539283	127.040943	Gangbyeonbukro, Seoul, South Korea
+1212	37.545089	127.136806	Gangdong-gu, Seoul, South Korea
+1213	37.496978	127.056558	Gangnam-gu, Seoul, South Korea
+1214	37.544656	126.835094	Gangseo-gu, Seoul, South Korea
+1215	37.452386	126.908333	Geumcheon-gu, Seoul, South Korea
+1216	37.534035	127.139172	Gil-dong, Seoul, South Korea
+1217	37.562822	126.826072	Gonghangro, Seoul, South Korea
+1218	37.480178	126.892606	Guro-gu, Seoul, South Korea
+1219	37.488242	126.927089	Gwanak-gu, Seoul, South Korea
+1220	37.544639	127.095706	Gwangjin-gu, Seoul, South Korea
+1221	37.572025	127.005028	Jongno-gu, Seoul, South Korea
+1222	37.570633	126.996783	Jongro, Seoul, South Korea
+1223	37.564639	126.975961	Jung-gu, Seoul, South Korea
+1224	37.584953	127.094283	Jungnang-gu, Seoul, South Korea
+1225	37.550133	126.945167	Mapo-gu, Seoul, South Korea
+1226	37.607700	127.002200	Naebusunhwanro, Seoul, South Korea
+1227	37.658850	127.068450	Nowon-gu, Seoul, South Korea
+1228	37.504547	126.994611	Seocho-gu, Seoul, South Korea
+1229	37.576578	126.937972	Seodaemun-gu, Seoul, South Korea
+1230	37.606667	127.027264	Seongbuk-gu, Seoul, South Korea
+1231	37.543106	127.041278	Seongdong-gu, Seoul, South Korea
+1232	37.549389	126.971519	Seouryeok, Seoul, South Korea
+1233	37.554936	126.937619	Sinchon, Seoul, South Korea
+1234	37.516083	127.019694	Sinsa-dong, Seoul, South Korea
+1235	37.521597	127.124264	Songpa-gu, Seoul, South Korea
+1236	37.617315	127.075319	Taereung, Seoul, South Korea
+1237	37.523286	126.858689	Yangcheon-gu, Seoul, South Korea
+1238	37.482867	127.035621	Yangjaejungangcharo, Seoul, South Korea
+1239	37.525000	126.897403	Yeongdeungpo-gu, Seoul, South Korea
+1240	37.520222	126.904967	Yeongdeungpo, Seoul, South Korea
+1241	37.540314	127.005083	Yongsan-gu, Seoul, South Korea
+1242	24.880182	102.832861	Kunming
+1243	39.538047	116.683752	Langfang
+1244	36.061255	103.834377	Lanzhou
+1245	18.742567	109.178098	Ledongxian
+1246	29.645554	91.140856	Lhasa
+1247	34.596544	119.221282	Lianyungang
+1248	36.456704	115.985371	Liaocheng
+1249	41.267244	123.236944	Liaoyang
+1250	30.274085	120.155070	Linan
+1251	35.104672	118.356448	Linyi
+1252	28.467630	119.922796	Lishui
+1253	24.325502	109.415953	Liuzhou
+1254	37.517086	111.143765	Luliang
+1255	34.618452	112.454290	Luoyang
+1256	28.871820	105.442347	Luzhou
+1257	31.670452	118.506760	Maanshan
+1258	22.195833	113.544722	Calcada do Poco, Macau
+1259	22.158083	113.554591	Parque Central da Taipa, Macau
+1260	22.213889	113.542778	Subestacao Macau Norte, Macau
+1261	22.160000	113.565000	Taipa Grande, Macau
+1262	21.662999	110.925456	Maoming
+1263	24.288615	116.122239	Meizhou
+1264	31.467450	104.679114	Mianyang
+1265	44.551653	129.633169	Mudanjiang
+1266	28.683213	115.858121	Nanchang
+1267	30.837793	106.110698	Nanchong
+1268	32.060255	118.796877	Nanjing
+1269	22.817239	108.366129	Nanning
+1270	31.980175	120.894339	Nantong
+1271	30.162295	121.237993	Cixi EPB, Ningbo
+1272	30.176785	121.257829	Cixi Experimently Primary School, Ningbo
+1273	29.893860	121.948703	Daxie Literary Museum, Ningbo
+1274	29.662833	121.409557	Fenghua EPB, Ningbo
+1275	29.951757	121.716413	Longsai Hospital, Ningbo
+1276	29.285131	121.424364	Chengnan Primary School, Ninghai, Ningbo
+1277	29.292715	121.434802	Yuelong station, Ninghai, Ningbo
+1278	29.790748	121.648286	Qianhu water plant, Ningbo
+1279	29.902073	121.823453	Beilun District EPB, Ningbo
+1280	29.887285	121.558574	Sanjiang secondary schools, Ningbo
+1281	29.864991	121.528581	Qianhu shuihan, Ningbo
+1282	29.896367	121.616171	Municipal management station, Ningbo
+1283	29.860809	121.589644	Taigu Primary School, Ningbo
+1284	29.899397	121.617820	Ningbo
+1285	29.898707	121.536958	Wanli University, Ningbo
+1286	29.473566	121.891079	Wenfeng Primary School, Xiangshan, Ningbo
+1287	29.202594	121.931921	Xingang Primary School, Xiangshan, Ningbo
+1288	30.047853	121.153140	Yongsan Park, Yuyao, Ningbo
+1289	30.041396	121.128917	Qilupu Water Company, Yuyao, Ningbo
+1290	41.119997	122.070714	Panjin
+1291	26.582347	101.718637	Panzhihua
+1292	33.766190	113.192814	Pingdingshan
+1293	30.402110	112.900079	Qianjiang
+1294	36.067082	120.382640	Qingdao
+1295	39.935377	119.600492	Qinhuangdao
+1296	19.258404	110.474650	Qionghai
+1297	47.354348	123.918186	Qiqihaer
+1298	25.490010	103.796167	Qujing
+1299	28.970080	118.859457	Quzhou
+1300	35.416377	119.526888	Rizhao
+1301	34.772494	111.200135	Sanmenxia
+1302	18.252847	109.511909	Sanya
+1303	37.383056	117.983056	Beizhong new school, Binzhou, Shandong
+1304	37.367500	117.973056	Bilin compond, Binzhou, Shandong
+1305	37.360833	117.996667	No.2 water factory, Binzhou, Shandong
+1306	37.395556	117.937778	Keling Chemical factory, Binzhou, Shandong
+1307	37.379444	118.020833	City EPA, Binzhou, Shandong
+1308	37.355556	117.937500	Yinhe logistics company, Binzhou, Shandong
+1309	37.466389	116.306111	Children's amuzment park, Dezhou, Shandong
+1310	37.465278	116.308333	Heima group, Dezhou, Shandong
+1311	37.461944	116.351667	Huayu technical school, Dezhou, Shandong
+1312	37.432222	116.371389	Monitoring station, Dezhou, Shandong
+1313	37.448889	116.318889	Supervision Station, Dezhou, Shandong
+1314	37.478056	116.310556	Shuangyi group, Dezhou, Shandong
+1315	37.444444	118.552778	Gengjin village, Dongying, Shandong
+1316	37.378056	118.819167	Guangnan reservoir, Dongying, Shandong
+1317	37.883056	118.516389	Hekou  district, Dongying, Shandong
+1318	37.434444	118.696111	BDA, Dongying, Shandong
+1319	37.472222	118.640833	Shengli hospital, Dongying, Shandong
+1320	37.465833	118.502222	City environmental company, Dongying, Shandong
+1321	37.431389	118.667222	City EPA, Dongying, Shandong
+1322	37.441667	118.504444	Xianhe Oil Production Plant, Dongying, Shandong
+1323	37.438056	118.625000	Vocational College, Dongying, Shandong
+1324	35.270000	115.455000	Heze University, Heze, Shandong
+1325	35.261944	115.519167	Huarun Pharmaceutical Company, Heze, Shandong
+1326	35.243611	115.408611	Mudan high-tech zone, Heze, Shandong
+1327	35.248889	115.422778	Bureau of Meteorology, Heze, Shandong
+1328	35.237500	115.474722	Municipal CPPCC, Heze, Shandong
+1329	35.223056	115.525833	Sewage treatment plant, Heze, Shandong
+1330	36.724167	117.124722	Baosheng cable company, Jinan, Shandong
+1331	36.548611	116.765167	Changqing District Communist Party School, Jinan, Shandong
+1332	36.687222	116.988611	Chemical factory, Jinan, Shandong
+1333	36.640889	116.942778	Jichuang er chang, Jinan, Shandong
+1334	36.685389	117.124722	BDA, Jinan, Shandong
+1335	36.611389	116.988056	Kegansuo, Jinan, Shandong
+1336	36.700278	116.947778	Lanxiang technical school, Jinan, Shandong
+1337	36.663000	116.945000	Agriculture Science Institute, Jinan, Shandong
+1338	36.681389	117.185833	Shandong Architecture University, Jinan, Shandong
+1339	36.592778	117.024167	Shandong luneng, Jinan, Shandong
+1340	36.685278	117.060278	Provincial Seed Warehouse, Jinan, Shandong
+1341	36.662222	117.048611	City Monitoring Station, Jinan, Shandong
+1342	35.390889	116.547611	Electrochemical Factory, Jining, Shandong
+1343	35.436778	116.637611	BDA Huojucheng, Jining, Shandong
+1344	35.442778	116.596389	Agricultural School, Jining, Shandong
+1345	35.390889	116.657611	Rencheng BDA, Jining, Shandong
+1346	35.425056	116.693611	Shengdi Hollidays Resort, Jining, Shandong
+1347	35.408889	116.618611	City Monitoring Station, Jining, Shandong
+1348	35.364778	116.603889	Sewage treatment plant, Jining, Shandong
+1349	36.066944	117.866111	Gangcheng EPA, Laiwu, Shandong
+1350	36.266111	117.646944	Nursing home, Laiwu, Shandong
+1351	36.208056	117.725000	Risheng International School, Laiwu, Shandong
+1352	36.228889	117.688889	City EPA, Laiwu, Shandong
+1353	36.205000	117.695000	Vegetable oil factory, Laiwu, Shandong
+1354	36.444444	115.966111	Dongchang District Government, Liaocheng, Shandong
+1355	36.456667	115.996667	Light Machinery Factory No. 2, Liaocheng, Shandong
+1356	36.431944	115.951389	Customs, Liaocheng, Shandong
+1357	36.471111	115.954722	Hongshun Garden, Liaocheng, Shandong
+1358	36.459167	116.037778	BDA, Liaocheng, Shandong
+1359	36.479444	115.983611	City committee communist party school, Liaocheng, Shandong
+1360	35.089722	118.402333	Hedong insurance company, Linyi, Shandong
+1361	34.999444	118.251667	Hongfu Baijiu Factory, Linyi, Shandong
+1362	35.010556	118.430000	Jianghua vehicule center, Linyi, Shandong
+1363	35.115278	118.287778	Linyi University, Linyi, Shandong
+1364	35.062222	118.293889	Lunan Pharmaceutical Factory, Linyi, Shandong
+1365	35.105278	118.347778	City EPA (Nanfang), Linyi, Shandong
+1366	34.981667	118.276389	Xinguang woolen factory, Linyi, Shandong
+1367	35.057222	118.341667	Yihe compound, Linyi, Shandong
+1368	36.308156	120.394920	Chengyang District No. 1, Qingdao, Shandong
+1369	35.958797	120.185909	Huangdao District No. 1, Qingdao, Shandong
+1370	35.970289	120.155109	Huangdao District No. 2, Qingdao, Shandong
+1371	36.085636	120.446784	Laoshan District No. 1, Qingdao, Shandong
+1372	36.090925	120.485470	Laoshan District No. 2, Qingdao, Shandong
+1373	36.184570	120.380186	Licang District No. 1, Qingdao, Shandong
+1374	36.154078	120.427178	Licang District No. 2, Qingdao, Shandong
+1375	36.069711	120.336184	Shibei district No. 1, Qingdao, Shandong
+1376	36.103886	120.361250	Shibei district No. 2, Qingdao, Shandong
+1377	36.065250	120.403259	Shinan district No. 1, Qingdao, Shandong
+1378	36.054169	120.294134	Tuan dao, Qingdao, Shandong
+1379	36.240156	120.660697	Yang kou, Qingdao, Shandong
+1380	35.381667	119.548611	Port Authority, Rizhao, Shandong
+1381	35.462500	119.568889	Professor Garden, Rizhao, Shandong
+1382	35.373611	119.508611	Jinma Industrial Park, Rizhao, Shandong
+1383	35.293611	119.340000	Lanshan EPA branch, Rizhao, Shandong
+1384	35.388889	119.490833	City Monitoring Station, Rizhao, Shandong
+1385	35.407778	119.520556	City governement square, Rizhao, Shandong
+1386	35.442222	119.532778	Vocational and Technical College, Rizhao, Shandong
+1387	36.201944	117.041111	Transportation technical school, Taian, Shandong
+1388	36.170000	117.159167	Nongda new campus, Taian, Shandong
+1389	36.194167	117.098056	Population Education school, Taian, Shandong
+1390	36.175833	117.118056	Shandong Electric Power School, Taian, Shandong
+1391	36.194167	117.153611	Taishan monitoring station, Taian, Shandong
+1392	36.657222	119.161389	Gongda Company, Weifang, Shandong
+1393	36.773056	119.193889	Hanting District, Weifang, Shandong
+1394	36.773056	119.109567	Jincheng Middle School, Weifang, Shandong
+1395	36.719556	119.048167	BDA, Weifang, Shandong
+1396	36.730556	119.091944	Liujiayuan, Weifang, Shandong
+1397	36.681944	119.099944	Business School, Weifang, Shandong
+1398	36.700833	119.162500	City EPA, Weifang, Shandong
+1399	36.701944	119.140000	City Arbitration Committee, Weifang, Shandong
+1400	36.641111	119.110833	Xinhui Group, Weifang, Shandong
+1401	37.533921	122.051258	Gao District Bank, Weihai, Shandong
+1402	37.426947	122.125771	Huxia technical school, Weihai, Shandong
+1403	37.513634	122.141257	Lantian Hotel, Weihai, Shandong
+1404	37.324535	122.155814	Woodworking Factory, Weihai, Shandong
+1405	37.512926	122.062005	City Environmental Monitoring Station, Weihai, Shandong
+1406	37.484588	122.044421	Zhang village government, Weihai, Shandong
+1407	37.672833	121.066250	Dajijia, Yantai, Shandong
+1408	37.471414	121.255093	Fushan Monitoring Stations, Yantai, Shandong
+1409	37.602407	121.142166	BDA zone B, Yantai, Shandong
+1410	37.559978	121.252922	BDA EPA, Yantai, Shandong
+1411	37.477439	121.443070	Laishan EPA, Yantai, Shandong
+1412	37.426096	121.403124	Laishan Shengquan Industrial Park, Yantai, Shandong
+1413	37.523683	121.355367	Ludong Univertity, Yantai, Shandong
+1414	37.376055	121.581726	Mouping EPA, Yantai, Shandong
+1415	37.546224	121.318561	Xijiao Chemical Station, Yantai, Shandong
+1416	37.422767	121.506840	China Agricultural University, Yantai, Shandong
+1417	37.543111	121.371706	Bearing Factory, Yantai, Shandong
+1418	34.822500	117.357500	High-tech zone, Zaozhuang, Shandong
+1419	35.070833	117.451667	Shanting EPA, Zaozhuang, Shandong
+1420	34.810278	117.314722	City EPA, Zaozhuang, Shandong
+1421	34.851389	117.563889	Shizhong District Government, Zaozhuang, Shandong
+1422	34.580556	117.735278	Taierzhuang EPA, Zaozhuang, Shandong
+1423	34.820000	117.589722	Sewage treatment plant, Zaozhuang, Shandong
+1424	34.791111	117.266667	Xuecheng EPA, Zaozhuang, Shandong
+1425	34.773889	117.570833	Yicheng District government, Zaozhuang, Shandong
+1426	36.497222	117.847778	Boshan shuangshan, Zibo, Shandong
+1427	36.838056	118.044722	Dongfeng Chemical factory, Zibo, Shandong
+1428	36.665556	117.923333	Fenghuang shan, Zibo, Shandong
+1429	36.904722	118.015833	BDA, Zibo, Shandong
+1430	36.819722	118.309167	Linzi Putian Park, Zibo, Shandong
+1431	36.803056	118.024444	Nan ding, Zibo, Shandong
+1432	36.765556	118.249167	Qilu Petrochemical, Zibo, Shandong
+1433	36.459722	117.870278	Qinglong shan, Zibo, Shandong
+1434	36.808333	118.042222	People's Park, Zibo, Shandong
+1435	36.843333	118.017500	Xinqu, Zibo, Shandong
+1436	36.825000	117.920556	Vocational College, Zibo, Shandong
+1437	36.804167	117.851111	Zhoucun sanjin Group, Zibo, Shandong
+1438	36.637778	117.954444	Zichuan Meteo. Stations, Zibo, Shandong
+1439	31.300800	121.467000	Hongkou Liangcheng, Shanghai
+1440	31.226100	121.425000	Jingan, Shanghai
+1441	31.201014	121.483231	Shanghai Normal College Primary Division, Shanghai
+1442	31.190700	121.703000	Chuansha, Shanghai
+1443	31.228400	121.533000	Lingshan Road, Shanghai
+1444	31.207100	121.577000	Zhangjiang, Shanghai
+1445	31.234814	121.410728	Putuo, Shanghai
+1446	31.093500	120.978000	Dianshan Lake, Shanghai
+1447	31.230393	121.473704	City average, Shanghai
+1448	31.204737	121.448902	Shanghai
+1449	31.204737	121.448902	Shanghai US Consulate, Shanghai
+1450	31.165400	121.412000	Shanghai Normal University, Shanghai
+1451	31.265900	121.536000	Yangpu Sipiao, Shanghai
+1452	23.353299	116.681838	Shantou
+1453	22.786211	115.375279	Shanwei
+1454	24.810403	113.597522	Shaoguan
+1455	29.995762	120.586109	Shaoxing
+1456	31.743483	110.680448	Shennongjia
+1457	41.805698	123.431475	Shenyang
+1458	41.783235	123.426727	Shenyang US Consulate
+1459	22.696848	114.045390	Mission Hills, Shenzhen
+1460	22.562334	114.116872	Honghu, Shenzhen
+1461	22.542454	113.987495	OCT, Shenzhen
+1462	22.630626	114.423948	Kwai Chung, Shenzhen
+1463	22.550000	114.096079	Liyuan, Shenzhen
+1464	22.720358	114.247468	Xi xiang, Shenzhen
+1465	22.598902	114.313483	Meisha, Shenzhen
+1466	22.528186	114.496906	Nan'aozhen, Shenzhen
+1467	22.516847	113.923192	Nanyou, Shenzhen
+1468	22.543099	114.057868	Shenzhen
+1469	22.356859	114.129490	Kwai Chung, Shenzhen
+1470	22.590807	114.262078	Yantian, Shenzhen
+1471	38.042307	114.514860	Shijiazhuang
+1472	32.629397	110.797991	Shiyan
+1473	38.984346	106.383047	Shizuishan
+1474	22.809444	113.287778	Shunde
+1475	39.331595	112.432825	Shuozhou
+1476	31.690216	113.382458	Suizhou
+1477	33.962013	118.275498	Suqian
+1478	31.298886	120.585316	Suzhou
+1479	23.048197	120.217500	Annan, Taiwan
+1480	25.012972	121.458667	Banqiao, Taiwan
+1481	25.068950	121.481028	Cailiao, Taiwan
+1482	24.066000	120.541519	Changhua, Taiwan
+1483	22.523108	120.561175	Chaozhou, Taiwan
+1484	23.464789	120.438367	Chiayi, Taiwan
+1485	22.605386	120.307564	Qianzhen, Taiwan
+1486	22.632567	120.288086	Qianjin, Taiwan
+1487	22.757506	120.305689	Qiaotou, Taiwan
+1488	24.099611	120.677689	Dali, Taiwan
+1489	22.565747	120.425081	Daliao, Taiwan
+1490	25.164500	121.449239	Tamsui, Taiwan
+1491	25.063200	121.513311	Datong, Taiwan
+1492	25.060344	121.201811	Dayuan, Taiwan
+1493	24.633436	121.793872	Dongshan, Taiwan
+1494	23.711853	120.544994	Douliu, Taiwan
+1495	23.925175	120.409653	Erlin, Taiwan
+1496	22.627392	120.358083	Fengshan, Taiwan
+1497	24.256586	120.741711	Fengyuan, Taiwan
+1498	22.608711	120.312017	Fuxing, Taiwan
+1499	25.035503	121.082761	Guanyin, Taiwan
+1500	25.020608	121.529556	Guting, Taiwan
+1501	21.958069	120.788928	Hengchun, Taiwan
+1502	24.805619	120.972075	Hsinchu, Taiwan
+1503	23.971956	121.599769	Hualien, Taiwan
+1504	24.900142	121.038653	Hukou, Taiwan
+1505	24.953278	121.221667	Zhongli, Taiwan
+1506	24.151958	120.641092	Zhongming, Taiwan
+1507	25.062361	121.526528	Zhongshan, Taiwan
+1508	24.740644	121.088903	Zhudong, Taiwan
+1509	23.756389	120.677306	Zhushan, Taiwan
+1510	25.129167	121.760056	Keelung, Taiwan
+1511	24.432133	118.312256	Kinmen, Taiwan
+1512	25.077197	121.376869	Linkou, Taiwan
+1513	22.479500	120.411750	Linyuan, Taiwan
+1514	24.863869	121.216350	Longtan, Taiwan
+1515	23.757547	120.348742	Lunbei, Taiwan
+1516	23.569031	119.566158	Magong, Taiwan
+1517	23.753506	120.251825	Mailiao, Taiwan
+1518	26.160469	119.949875	Matsu, Taiwan
+1519	22.883583	120.530542	Meinong, Taiwan
+1520	24.565269	120.820200	Miaoli, Taiwan
+1521	23.913000	120.685306	Nantou, Taiwan
+1522	22.733667	120.328289	Nanzi, Taiwan
+1523	22.673081	120.488033	Pingtung, Taiwan
+1524	24.952786	121.203986	Pingzhen, Taiwan
+1525	23.968842	120.967903	Puli, Taiwan
+1526	23.465308	120.247350	Puzi, Taiwan
+1527	22.689056	120.332631	Renwu, Taiwan
+1528	25.072611	121.493806	Sanchong, Taiwan
+1529	24.382942	120.758833	Sanyi, Taiwan
+1530	24.225628	120.568794	Shalu, Taiwan
+1531	23.115097	120.297142	Shanhua, Taiwan
+1532	25.105417	121.515389	Shilin, Taiwan
+1533	24.131672	120.469061	Xianxi, Taiwan
+1534	22.565833	120.337736	Xiaogang, Taiwan
+1535	25.067131	121.642300	Xizhi, Taiwan
+1536	24.977222	121.537778	Xindian, Taiwan
+1537	23.554839	120.345531	Xingang, Taiwan
+1538	25.037972	121.432500	Xinzhuang, Taiwan
+1539	23.305633	120.317250	Xinying, Taiwan
+1540	24.162197	120.616917	Xitun, Taiwan
+1541	25.050694	121.578556	Songshan, Taiwan
+1542	22.984581	120.202617	Tainan, Taiwan
+1543	23.717533	120.202842	Taixi, Taiwan
+1544	24.994789	121.319964	Taoyuan, Taiwan
+1545	24.696969	120.898572	Toufen, Taiwan
+1546	24.982528	121.451861	Tucheng, Taiwan
+1547	25.046503	121.507972	Wanhua, Taiwan
+1548	25.179667	121.689881	Wanli, Taiwan
+1549	25.182722	121.529583	Yangming, Taiwan
+1550	24.747917	121.746394	Yilan, Taiwan
+1551	25.017000	121.516306	Yonghe, Taiwan
+1552	22.674861	120.292917	Zuoying, Taiwan
+1553	37.870590	112.548879	Taiyuan
+1554	28.656386	121.420757	Taizhou
+1555	32.455778	119.923116	Taizhoushi
+1556	39.630867	118.180194	Tangshan
+1557	18.788340	98.993244	Yupparaj Wittayalai School, Chiangmai, Thailand
+1558	19.909995	99.830001	Maesai Health Office, Chiangrai, Thailand
+1559	19.909242	99.823357	Natural Resources and Environment Office, Chiangrai, Thailand
+1560	18.286776	99.506314	Lampang Meteorological Station, Thailand
+1561	18.247769	99.766892	Health Promotion Hospital Sob Pad, Lampang, Thailand
+1562	18.279681	99.663145	Provincial Waterworks Authority Mae Moh, Lampang, Thailand
+1563	18.564721	99.011145	Provincial Administrative Stadium, Lamphun, Thailand
+1564	19.304501	97.971525	Natural Resources and Environment Office, Mae Hongson, Thailand
+1565	18.786142	100.779526	Municipality Office, Nan, Thailand
+1566	19.190056	100.170326	Knowledge Park, Phayao, Thailand
+1567	18.126140	100.165400	Phrae Meteorological Station, Thailand
+1568	39.516267	117.343117	Baobai highway, Tianjin
+1569	38.943167	116.914800	Beiwei No.2 road, Tianjin
+1570	39.110830	117.245200	Dazhigu No.8 road, Tianjin
+1571	39.034317	117.707150	No.4 street, Tianjin
+1572	40.041750	117.444417	Donghuan road, Tianjin
+1573	39.097033	117.151233	Fukang road, Tianjin
+1574	38.845167	116.779417	Guang'an street, Tianjin
+1575	39.328150	117.816567	Guangming Road, Tianjin
+1576	39.078467	117.090167	Haitai fazhan No.2 road, Tianjin
+1577	39.158750	117.764167	Hanbei road, Tianjin
+1578	39.151067	117.374767	Hangtian road, Tianjin
+1579	39.247350	117.791767	Hexi Yijing road, Tianjin
+1580	39.226050	117.184950	Huaihe street, Tianjin
+1581	39.718800	117.304150	Jianshe Road, Tianjin
+1582	38.984583	117.374733	Jingu Road, Tianjin
+1583	39.119910	117.188790	Nanjing Road, Tianjin
+1584	39.172950	117.193367	Nankou road, Tianjin
+1585	39.092700	117.201683	Qianjin street, Tianjin
+1586	39.165433	117.144633	Qinjian street, Tianjin
+1587	39.372617	117.043983	Quanzhou South road, Tianjin
+1588	39.020967	117.650300	Tanggu Yingkou street, Tianjin
+1589	38.919433	117.156633	Tuanpowa, Tianjin
+1590	39.084158	117.200983	Tianjin
+1591	39.133750	117.268833	Xiangshan street, Tianjin
+1592	39.137667	117.003933	Xinhua street, Tianjin
+1593	38.839450	117.457350	Yongming road, Tianjin
+1594	39.087140	117.314500	Yuejin Road, Tianjin
+1595	39.063500	117.225000	Zhujiang street, Tianjin
+1596	30.663372	113.166530	Tianmen
+1597	42.222970	123.726163	Tieling
+1598	34.896756	108.945233	Tongchuan
+1599	47.917142	107.020170	amgalan, UB, Ulaanbaatar
+1600	47.866580	106.786713	nisekh, UB, Ulaanbaatar
+1601	16.074186	108.216962	Da Nang, Vietnam
+1602	21.049119	105.883119	Hanoi, Vietnam
+1603	36.706774	119.161756	Weifang
+1604	37.513068	122.120420	Weihai
+1605	34.499995	109.509786	Weinan
+1606	27.994267	120.699367	Wenzhou
+1607	30.299822	113.853064	Yuanshun Road, Wuhan
+1608	30.482469	114.156561	Dunkou Xinou, Wuhan
+1609	30.483262	114.401702	Donghu Gaoxin, Wuhan
+1610	30.574625	114.372305	Donghu Liyuan, Wuhan
+1611	30.619673	114.282230	Hankou Huaqiao, Wuhan
+1612	30.594389	114.301447	Hankou, Wuhan
+1613	30.557138	114.251523	Yuehu Lake, Wuhan
+1614	30.624719	114.370058	Qingshan Ganghua, Wuhan
+1615	30.594389	114.301447	Wuhan
+1616	30.533234	114.304000	Wuchang Ziyang, Wuhan
+1617	30.633424	114.130212	Wujianshan, Wuhan
+1618	31.352859	118.432941	Wuhu
+1619	31.490637	120.311143	Wuxi
+1620	18.775147	109.516925	Wuzhishan
+1621	24.479834	118.089425	Xiamen
+1622	34.341568	108.940175	Xian
+1623	32.008986	112.122415	Xiangfan
+1624	27.829738	112.944049	Xiangtan
+1625	32.008986	112.122415	Xiangyang
+1626	29.841443	114.322492	Xianning
+1627	30.362641	113.454593	Xiantao
+1628	34.329563	108.709003	Xianyang
+1629	30.924568	113.916903	Xiaogan
+1630	37.070589	114.504844	Xingtai
+1631	36.617144	101.778228	Xining
+1632	37.943123	115.218021	Xinji
+1633	38.416663	112.734174	Xinzhou
+1634	34.204750	117.284072	Xuzhou
+1635	36.585455	109.489727	Yanan
+1636	33.347378	120.163561	Yancheng
+1637	21.857958	111.982232	Yangjiang
+1638	32.394210	119.412966	Yangzhou
+1639	37.463822	121.447935	Yantai
+1640	28.751812	104.643382	Yibin
+1641	30.691967	111.286471	Yichang
+1642	38.487194	106.230909	Yinchuan
+1643	40.667012	122.235418	Yingkou
+1644	29.306841	120.075058	Yiwu
+1645	29.357104	113.128958	Yueyang
+1646	22.915094	112.044491	Yunfu
+1647	24.352036	102.546543	Yuxi
+1648	34.810488	117.323725	Zaozhuang
+1649	29.117096	110.479191	Zhangjiajie
+1650	21.270702	110.359387	Zhanjiang
+1651	23.052800	112.470800	Zhaoqing
+1652	30.210000	120.210833	Binjiang, Hangzhou
+1653	30.288000	120.171000	Zhaohui zone 5, Hangzhou
+1654	30.181944	120.269722	Chengxiang town, Hangzhou
+1655	29.596990	119.053275	Chunan, Hangzhou
+1656	29.461272	119.287683	Jiande, Hangzhou
+1657	30.311944	120.119722	Hemu primary school, Hangzhou
+1658	29.474442	119.276247	Jiande, Hangzhou
+1659	30.418333	120.300556	Linping town, Hangzhou
+1660	30.209383	120.166298	Hangzhou
+1661	29.640581	119.025965	Qiandao lake, Hangzhou
+1662	29.803966	119.671111	Tonglu, Hangzhou
+1663	29.796136	119.690568	Tonglu, Hangzhou
+1664	30.246000	120.128000	Wolong bridge, Hangzhou
+1665	30.305833	120.348056	Xiasha, Hangzhou
+1666	30.274722	120.063333	Xixi, Hangzhou
+1667	30.260884	119.939890	Hangzhou
+1668	30.180833	120.088333	Yunqi, Hangzhou
+1669	30.268000	120.193000	Zhejiang Agricultural University, Hangzhou
+1670	30.051000	119.958900	Fuyang monitoring station, Hangzhou
+1671	30.046900	119.951800	No.2 Middle School, Hangzhou
+1672	30.231944	119.694722	No. 4 middle school, Hangzhou
+1673	30.236667	119.718611	City Hall, Hangzhou
+1674	30.598056	119.695278	Anji, Huzhou
+1675	30.638229	119.673777	Anji, Huzhou
+1676	30.893198	120.091724	Chengbei water plant, Huzhou
+1677	30.864437	120.079708	Town west water plant, Huzhou
+1678	30.548333	119.988056	Deqing, Huzhou
+1679	30.862005	120.115328	Jishan new village, Huzhou
+1680	31.020833	119.908333	Zhangxing, Huzhou
+1681	30.536389	119.973333	Deqing, Huzhou
+1682	31.014444	119.898056	Vocational Education Center, Zhangxing, Huzhou
+1683	30.692161	121.018544	Donghu, Pinghu, Jiaxing
+1684	30.501657	120.945539	Haiyan, Jiaxing
+1685	30.650650	120.541140	Tongxiang, Jiaxing
+1686	30.523822	120.678291	Haining, Jiaxing
+1687	30.524067	120.945469	Haiyan, Jiaxing
+1688	30.378554	120.857334	Haiyan, Jiaxing
+1689	30.833497	120.927426	Jiashan, Jiaxing
+1690	30.756667	120.763056	Monitoring station, Jiaxing
+1691	30.747405	120.730691	Jiaxing University, Jiaxing
+1692	30.728889	120.995278	Pinghu, Jiaxing
+1693	30.777969	120.743647	Qinghe Primary School, Jiaxing
+1694	30.828974	120.944731	Jiashan, Jiaxing
+1695	30.511474	120.713139	Haining, Jiaxing
+1696	30.622550	120.565720	Tongxiang, Jiaxing
+1697	27.980000	119.629444	Jingningxian
+1698	29.298189	120.246079	Dongyang, Jinhua
+1699	29.226718	119.485661	Lanxi, Jinhua
+1700	29.212485	119.466263	Lanxi, Jinhua
+1701	29.060833	120.438333	PananXian, Jinhua
+1702	29.463140	119.883585	Pujiang, Jinhua
+1703	29.436832	119.928646	Pujiang, Jinhua
+1704	29.102917	119.685611	City Monitoring Station, Jinhua
+1705	29.077000	119.647417	No.15 middle school, Jinhua
+1706	29.113056	119.648944	No.4 middle school, Jinhua
+1707	28.907778	119.814722	Wuyi, Jinhua
+1708	28.889167	119.812222	Wuyi, Jinhua
+1709	28.891100	120.031700	Yongkang, Jinhua
+1710	28.902800	120.021200	Yongkang, Jinhua
+1711	29.335364	120.078611	Beiyuan, Jinhua
+1712	29.304964	120.090556	Jiangdong, Jinhua
+1713	28.451389	119.479722	Songyang, Lishui
+1714	28.447794	119.918700	Monitoring station building, Lishui
+1715	28.136389	120.288333	Qingtian, Lishui
+1716	28.454307	119.934922	Liandu primary school, Lishui
+1717	28.073028	119.126791	Longquan, Lishui
+1718	28.145278	120.283611	Qingtian, Lishui
+1719	27.626343	119.059472	Qingyuan, Lishui
+1720	28.450556	119.474167	Songyang, Lishui
+1721	28.593203	119.272551	Suichang, Lishui
+1722	28.651667	120.065000	Jinyun, Lishui
+1723	28.662778	120.085556	Jinyun, Lishui
+1724	28.423056	119.879444	Yu Zhuang Qian, Lishui
+1725	28.895833	118.522222	Changshan, Quzhou
+1726	28.940417	118.871306	EPA building, Quzhou
+1727	29.036306	119.172467	Longyou, Quzhou
+1728	29.134167	118.404722	Bureau of Meteorology, Kaihua, Quzhou
+1729	28.974528	118.855250	Quzhou University, Quzhou
+1730	28.964613	118.876145	Experimental school, Quzhou
+1731	28.898056	118.511111	Changshan, Quzhou
+1732	29.989283	120.609511	Chengdong BDA committee, Shaoxing
+1733	29.490550	120.914830	Xinchang, Shaoxing
+1734	29.598611	120.822222	Shengzhou, Shaoxing
+1735	29.566111	120.817222	Shengzhou, Shaoxing
+1736	29.993049	120.643444	Donghu middle school, Shaoxing
+1737	30.052161	120.535708	Dongpu Town Governement, Shaoxing
+1738	30.047690	120.471960	Keqiaoqu, Shaoxing
+1739	30.078374	120.617462	Paojiang station, Shaoxing
+1740	30.132770	120.891700	Shangyuqu, Shaoxing
+1741	30.021840	120.873180	Shangyuqu, Shaoxing
+1742	30.004331	120.580238	City EPA station, Shaoxing
+1743	30.082450	120.493130	Keqiaoqu, Shaoxing
+1744	29.500780	120.897680	Xinchang, Shaoxing
+1745	29.708752	120.248752	Library, Shaoxing
+1746	29.728868	120.217123	Transporation management station, Shaoxing
+1747	28.219020	121.289127	Yuhuan, Taizhou
+1748	28.659261	121.280823	Huangyan EPA building, Taizhou
+1749	28.560033	121.395356	Taizhou
+1750	28.840238	121.140945	Linhai, Taizhou
+1751	28.870984	121.181596	Linhai, Taizhou
+1752	28.577361	121.376778	Luqiao Tian Yang Wang, Taizhou
+1753	29.116775	121.375923	Sanmen, Taizhou
+1754	29.160556	121.061944	Experimental Middle  School, Tiantai, Taizhou
+1755	28.654166	121.418880	Taizhou EPA building, Taizhou
+1756	29.148333	121.005278	Tiantai, Taizhou
+1757	28.375556	121.365556	Wenling, Taizhou
+1758	28.855767	120.728872	Xianju, Taizhou
+1759	28.737334	120.477356	Xianju, Taizhou
+1760	28.123891	121.238017	Yuhuan, Taizhou
+1761	27.777373	120.655307	Ruian, Wenzhou
+1762	27.831439	121.149367	Dongtou, Wenzhou
+1763	27.788360	120.627334	Ruian, Wenzhou
+1764	28.120936	120.965864	Yueqing, Wenzhou
+1765	27.503889	120.395000	Cangnan, Wenzhou
+1766	28.029722	120.891111	Yueqing, Wenzhou
+1767	27.581944	120.548889	Cangnan, Wenzhou
+1768	27.971359	120.764294	Longwan, Wenzhou
+1769	27.985079	120.679665	Nanpu, Wenzhou
+1770	28.040556	120.658611	Yongjia, Wenzhou
+1771	28.005239	120.638037	Ouhai, Wenzhou
+1772	27.659658	120.570122	Pingyang, Wenzhou
+1773	27.665250	120.561589	Pingyang, Wenzhou
+1774	28.156667	120.692222	Yongjia, Wenzhou
+1775	28.013044	120.675116	City Station, Wenzhou
+1776	30.726667	122.445833	Shengsi, Zhoushan
+1777	30.266944	122.220278	Daishan, Zhoushan
+1778	30.020278	122.122222	Dinghai tanfeng, Zhoushan
+1779	29.994444	122.189722	Lincheng new area, Zhoushan
+1780	29.953780	122.313500	Putuo east port, Zhoushan
+1781	29.981667	122.373889	Zhoushan
+1782	34.746600	113.625368	Zhengzhou
+1783	32.187849	119.425836	Zhenjiang
+1784	22.528283	113.386116	Zhongshan
+1785	29.985451	122.206604	Zhoushan
+1786	22.228056	113.298889	Zhuhai
+1787	29.713667	120.236304	Zhuji
+1788	27.827550	113.134003	Zhuzhou
+1789	36.813094	118.054868	Zibo
+1790	29.339030	104.778442	Zigong
+1791	27.725654	106.927389	Zunyi
